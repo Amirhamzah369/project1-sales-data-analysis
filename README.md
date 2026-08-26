@@ -230,7 +230,7 @@ The current Tableau dashboard is designed to highlight the following business in
 
 ## 📊 Interactive Tableau Dashboard
 
-👉 **[View Interactive Dashboard on Tableau Public](TABLEAU_PUBLIC_URL)**
+👉 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Data_Analysis_and_Business_Aggregation_Sales_Dataset/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 The interactive Tableau dashboard provides a visual overview of sales performance, including KPIs, monthly sales trends, product category performance, regional performance, and year-over-year comparisons.
 
