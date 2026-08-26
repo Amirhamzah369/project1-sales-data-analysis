@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,customer_id,customer_gender,customer_age_group,customer_segment,product_id,product_name,category,brand,quantity,unit_price,discount_pct,sales_amount,payment_method,sales_channel,region
+T0000452,1/2/2024,C001578,Female,45-54,VIP,P1093,Puzzle,Toys,Brand 3,4,381.59,25,1144.77,Debit Card,In-Store,West
+T0000602,1/2/2024,C022236,Other,45-54,VIP,P1106,Novel,Books,Brand 1,3,128.4,0,385.2,Cash,Online,Central
+T0000770,1/5/2024,C010191,Male,55+,New,P1015,Bluetooth Speaker,Electronics,Brand 3,1,95,0,95,Cash,In-Store,North
+T0000335,1/6/2024,C010102,Female,35-44,Loyal,P1012,Smartwatch,Electronics,Brand 3,1,485.11,25,363.83,Credit Card,Online,North
+T0000864,1/6/2024,C013690,Male,18-24,VIP,P1115,Textbook,Books,Brand 1,1,318.53,0,318.53,Gift Card,Online,West
+T0000342,1/7/2024,C012967,Female,55+,VIP,P1039,Rice,Groceries,Brand 3,1,343.7,5,326.51,Cash,In-Store,East
+T0000566,1/7/2024,C021019,Other,55+,New,P1069,Cookware Set,Home,Brand 3,2,41.9,0,83.8,Gift Card,Online,North
+T0000605,1/8/2024,C018940,Other,18-24,New,P1091,Puzzle,Toys,Brand 1,2,64.2,0,128.4,PayPal,Mobile App,South
+T0000800,1/8/2024,C018938,Female,25-34,Loyal,P1078,Yoga Mat,Sports,Brand 3,5,41.65,0,208.25,PayPal,Mobile App,Central
+T0000625,1/10/2024,C022965,Female,25-34,Loyal,P1069,Cookware Set,Home,Brand 3,1,41.9,0,41.9,Credit Card,In-Store,East
+T0000451,1/12/2024,C008691,Male,25-34,New,P1058,Sunscreen,Beauty,Brand 1,2,102.01,0,204.02,Cash,In-Store,North
+T0000320,1/13/2024,C000549,Other,35-44,Loyal,P1053,Lipstick,Beauty,Brand 2,3,470.05,10,1269.14,Credit Card,Mobile App,West
+T0000410,1/13/2024,C008014,Male,45-54,Loyal,P1110,Cookbook,Books,Brand 2,1,43.11,0,43.11,PayPal,Online,South
+T0000866,1/13/2024,C022714,Other,45-54,Returning,P1072,Storage Box,Home,Brand 3,1,103.36,15,87.86,Debit Card,In-Store,East
+T0000031,1/16/2024,C003057,Male,25-34,VIP,P1108,Novel,Books,Brand 3,1,379,0,379,PayPal,In-Store,South
+T0000618,1/16/2024,C024148,Other,18-24,New,P1067,Cookware Set,Home,Brand 1,1,74.76,15,63.55,Gift Card,In-Store,Central
+T0000797,1/17/2024,C004719,Other,45-54,VIP,P1083,Dumbbells,Sports,Brand 2,2,168.79,0,337.58,Debit Card,Online,South
+T0000259,1/18/2024,C012071,Female,18-24,VIP,P1105,Building Blocks,Toys,Brand 3,1,454.25,0,454.25,Gift Card,In-Store,North
+T0000938,1/19/2024,C001036,Female,18-24,VIP,P1070,Storage Box,Home,Brand 1,2,493.51,5,937.67,PayPal,In-Store,West
+T0000179,1/20/2024,C015066,Male,35-44,VIP,P1056,Perfume,Beauty,Brand 2,1,461.33,0,461.33,Gift Card,In-Store,West
+T0000079,1/21/2024,C020360,Male,25-34,Returning,P1026,Dress,Clothing,Brand 2,2,393.66,5,747.95,PayPal,Mobile App,North
+T0000485,1/21/2024,C022355,Male,45-54,Returning,P1066,Lamp,Home,Brand 3,5,273.63,0,1368.15,Debit Card,Mobile App,North
+T0000509,1/21/2024,C001581,Other,18-24,VIP,P1084,Dumbbells,Sports,Brand 3,3,36.46,0,109.38,PayPal,In-Store,North
+T0000963,1/21/2024,C001813,Male,35-44,Loyal,P1101,Doll,Toys,Brand 2,3,20.56,10,55.51,Credit Card,In-Store,East
+T0000291,1/23/2024,C012975,Female,18-24,Returning,P1093,Puzzle,Toys,Brand 3,1,381.59,0,381.59,Gift Card,Online,North
+T0000881,1/23/2024,C007613,Other,35-44,VIP,P1009,Laptop,Electronics,Brand 3,2,302.55,15,514.34,Gift Card,In-Store,East
+T0000948,1/23/2024,C010372,Female,55+,VIP,P1076,Yoga Mat,Sports,Brand 1,1,365.86,0,365.86,Cash,Mobile App,North
+T0000711,1/24/2024,C010875,Male,55+,Returning,P1061,Bedsheet,Home,Brand 1,2,197.4,0,394.8,Debit Card,Mobile App,Central
+T0000052,1/25/2024,C021628,Male,45-54,Loyal,P1029,Sneakers,Clothing,Brand 2,1,298.25,0,298.25,Cash,Online,East
+T0000756,1/25/2024,C015234,Other,18-24,Returning,P1016,T-Shirt,Clothing,Brand 1,2,95.79,0,191.58,Gift Card,In-Store,West
+T0000545,1/26/2024,C012481,Male,18-24,New,P1014,Bluetooth Speaker,Electronics,Brand 2,1,110.11,30,77.08,Debit Card,In-Store,South
+T0000491,1/27/2024,C021477,Female,35-44,Loyal,P1093,Puzzle,Toys,Brand 3,1,381.59,25,286.19,PayPal,In-Store,West
+T0000727,1/27/2024,C024984,Other,55+,Loyal,P1024,Jacket,Clothing,Brand 3,2,186.35,15,316.79,Gift Card,Mobile App,Central
+T0000075,1/28/2024,C012912,Other,55+,New,P1069,Cookware Set,Home,Brand 3,1,41.9,0,41.9,Credit Card,Mobile App,West
+T0000206,1/28/2024,C013596,Male,45-54,Loyal,P1120,Children Book,Books,Brand 3,2,271.97,30,380.76,Debit Card,In-Store,North
+T0000130,1/30/2024,C001508,Female,18-24,Loyal,P1116,Textbook,Books,Brand 2,2,436.37,0,872.74,Cash,In-Store,West
+T0000359,1/30/2024,C024163,Other,25-34,VIP,P1051,Moisturizer,Beauty,Brand 3,3,484.94,0,1454.82,Gift Card,In-Store,West
+T0000776,1/30/2024,C015426,Other,18-24,New,P1017,T-Shirt,Clothing,Brand 2,1,155.6,15,132.26,PayPal,Online,North
+T0000854,1/30/2024,C015895,Other,18-24,New,P1021,Jeans,Clothing,Brand 3,1,307.87,25,230.9,Debit Card,Mobile App,West
+T0000962,1/30/2024,C008468,Female,55+,Returning,P1018,T-Shirt,Clothing,Brand 3,1,264.75,0,264.75,Credit Card,Mobile App,West
+T0000158,2/1/2024,C001994,Female,45-54,VIP,P1083,Dumbbells,Sports,Brand 2,1,168.79,10,151.91,Credit Card,In-Store,West
+T0000581,2/1/2024,C019068,Other,45-54,Returning,P1081,Football,Sports,Brand 3,2,432.24,10,778.03,Credit Card,Mobile App,East
+T0000748,2/3/2024,C021857,Other,55+,Loyal,P1110,Cookbook,Books,Brand 2,1,43.11,5,40.95,Cash,Online,North
+T0000811,2/3/2024,C011235,Male,25-34,Returning,P1111,Cookbook,Books,Brand 3,2,148.43,10,267.17,PayPal,In-Store,West
+T0000870,2/3/2024,C009719,Female,35-44,Returning,P1068,Cookware Set,Home,Brand 2,2,402.09,10,723.76,Credit Card,Mobile App,East
+T0000317,2/4/2024,C002436,Other,18-24,New,P1068,Cookware Set,Home,Brand 2,2,402.09,0,804.18,PayPal,Online,South
+T0000801,2/4/2024,C001241,Other,45-54,Loyal,P1047,Shampoo,Beauty,Brand 2,1,159.3,0,159.3,Credit Card,Mobile App,West
+T0000467,2/5/2024,C016453,Other,55+,Returning,P1116,Textbook,Books,Brand 2,4,436.37,10,1570.93,Credit Card,In-Store,South
+T0000887,2/5/2024,C021809,Female,35-44,Returning,P1091,Puzzle,Toys,Brand 1,2,64.2,0,128.4,Cash,In-Store,Central
+T0000047,2/6/2024,C012099,Other,55+,Returning,P1070,Storage Box,Home,Brand 1,2,493.51,0,987.02,PayPal,Online,North
+T0000411,2/6/2024,C018117,Other,45-54,Returning,P1120,Children Book,Books,Brand 3,1,271.97,0,271.97,Cash,Online,West
+T0000492,2/6/2024,C019105,Other,55+,Returning,P1095,Toy Car,Toys,Brand 2,3,386.63,20,927.91,Cash,Mobile App,South
+T0000750,2/6/2024,C003052,Female,35-44,Loyal,P1047,Shampoo,Beauty,Brand 2,1,159.3,10,143.37,PayPal,Online,West
+T0000767,2/8/2024,C006623,Male,45-54,New,P1101,Doll,Toys,Brand 2,1,20.56,0,20.56,PayPal,Mobile App,South
+T0000051,2/9/2024,C015424,Male,25-34,VIP,P1049,Moisturizer,Beauty,Brand 1,2,275.62,0,551.24,Cash,In-Store,South
+T0000256,2/11/2024,C001485,Male,25-34,Loyal,P1065,Lamp,Home,Brand 2,2,144.06,20,230.5,PayPal,Mobile App,West
+T0000269,2/13/2024,C009426,Other,18-24,Loyal,P1038,Rice,Groceries,Brand 2,1,53.35,0,53.35,PayPal,Mobile App,East
+T0000734,2/13/2024,C008052,Other,55+,VIP,P1059,Sunscreen,Beauty,Brand 2,2,27.39,0,54.78,Credit Card,Mobile App,West
+T0000006,2/14/2024,C023912,Female,55+,New,P1034,Bread,Groceries,Brand 1,1,474.7,0,474.7,PayPal,Online,Central
+T0000852,2/14/2024,C001771,Other,35-44,Loyal,P1086,Running Shoes,Sports,Brand 2,2,165.97,10,298.75,Debit Card,In-Store,East
+T0000299,2/15/2024,C013182,Female,25-34,Returning,P1032,Milk,Groceries,Brand 2,2,89.41,25,134.12,Credit Card,Online,Central
+T0000518,2/16/2024,C000317,Male,25-34,Loyal,P1013,Bluetooth Speaker,Electronics,Brand 1,2,417.06,10,750.71,Cash,In-Store,Central
+T0000538,2/19/2024,C018129,Female,55+,VIP,P1095,Toy Car,Toys,Brand 2,1,386.63,15,328.64,Gift Card,Online,Central
+T0000662,2/20/2024,C017530,Male,25-34,New,P1020,Jeans,Clothing,Brand 2,2,149.16,0,298.32,Cash,In-Store,South
+T0000166,2/22/2024,C009426,Other,35-44,Loyal,P1112,Notebook,Books,Brand 1,2,84.8,0,169.6,Credit Card,Mobile App,Central
+T0000807,2/22/2024,C021507,Female,55+,New,P1074,Towel,Home,Brand 2,1,408.65,0,408.65,Cash,In-Store,North
+T0000670,2/23/2024,C021847,Male,18-24,Returning,P1114,Notebook,Books,Brand 3,1,405.02,5,384.77,PayPal,In-Store,North
+T0000976,2/23/2024,C021017,Other,25-34,VIP,P1098,Board Game,Toys,Brand 2,2,216.63,0,433.26,Debit Card,Online,West
+T0000457,2/24/2024,C003319,Female,25-34,Returning,P1021,Jeans,Clothing,Brand 3,1,307.87,0,307.87,PayPal,Mobile App,Central
+T0000804,2/24/2024,C011258,Other,18-24,VIP,P1079,Football,Sports,Brand 1,1,182.44,30,127.71,PayPal,Mobile App,West
+T0000851,2/24/2024,C006348,Male,25-34,VIP,P1036,Bread,Groceries,Brand 3,1,405.16,0,405.16,PayPal,Online,South
+T0000028,2/25/2024,C022065,Other,18-24,New,P1111,Cookbook,Books,Brand 3,2,148.43,0,296.86,PayPal,Mobile App,East
+T0000498,2/25/2024,C004941,Male,25-34,Loyal,P1053,Lipstick,Beauty,Brand 2,1,470.05,0,470.05,PayPal,Mobile App,West
+T0000532,2/25/2024,C007305,Female,35-44,VIP,P1106,Novel,Books,Brand 1,2,128.4,20,205.44,Cash,Mobile App,West
+T0000549,2/25/2024,C000425,Other,35-44,Returning,P1071,Storage Box,Home,Brand 2,1,387.26,5,367.9,Gift Card,In-Store,South
+T0000176,2/26/2024,C000252,Male,35-44,Returning,P1077,Yoga Mat,Sports,Brand 2,1,386.78,25,290.08,Debit Card,In-Store,East
+T0000871,2/26/2024,C016867,Other,35-44,New,P1095,Toy Car,Toys,Brand 2,2,386.63,5,734.6,Credit Card,In-Store,East
+T0000011,2/27/2024,C007506,Male,35-44,VIP,P1108,Novel,Books,Brand 3,4,379,0,1516,Cash,Online,South
+T0000595,2/27/2024,C005451,Female,25-34,VIP,P1019,Jeans,Clothing,Brand 1,1,218.81,15,185.99,Gift Card,Mobile App,North
+T0000942,2/27/2024,C012825,Female,45-54,VIP,P1065,Lamp,Home,Brand 2,3,144.06,0,432.18,Gift Card,Mobile App,East
+T0000188,2/28/2024,C012083,Female,18-24,New,P1005,Headphones,Electronics,Brand 2,1,82.23,0,82.23,Gift Card,Mobile App,Central
+T0000034,2/29/2024,C018979,Other,55+,New,P1028,Sneakers,Clothing,Brand 1,2,259.55,0,519.1,Cash,Online,North
+T0000244,3/2/2024,C005180,Female,45-54,VIP,P1089,Water Bottle,Sports,Brand 2,1,444.17,0,444.17,PayPal,Online,East
+T0000400,3/2/2024,C013041,Other,35-44,VIP,P1006,Headphones,Electronics,Brand 3,2,82.22,0,164.44,PayPal,Mobile App,West
+T0000421,3/4/2024,C014254,Other,25-34,Returning,P1073,Towel,Home,Brand 1,1,7.73,5,7.34,Cash,In-Store,East
+T0000586,3/5/2024,C008663,Female,25-34,New,P1030,Sneakers,Clothing,Brand 3,1,27.99,0,27.99,Debit Card,Mobile App,East
+T0000489,3/6/2024,C011020,Female,35-44,Loyal,P1062,Bedsheet,Home,Brand 2,1,139.32,0,139.32,Cash,Mobile App,East
+T0000649,3/6/2024,C015506,Other,18-24,New,P1013,Bluetooth Speaker,Electronics,Brand 1,1,417.06,0,417.06,PayPal,Mobile App,North
+T0000099,3/7/2024,C013131,Female,18-24,New,P1106,Novel,Books,Brand 1,1,128.4,0,128.4,Debit Card,Online,Central
+T0000919,3/8/2024,C009885,Other,18-24,New,P1006,Headphones,Electronics,Brand 3,2,82.22,0,164.44,Credit Card,Mobile App,South
+T0000975,3/8/2024,C011530,Female,55+,Loyal,P1065,Lamp,Home,Brand 2,1,144.06,0,144.06,PayPal,Mobile App,North
+T0000356,3/9/2024,C009840,Male,18-24,New,P1041,Coffee,Groceries,Brand 2,1,65.41,0,65.41,Cash,Mobile App,North
+T0000025,3/10/2024,C001030,Female,18-24,Returning,P1030,Sneakers,Clothing,Brand 3,1,27.99,0,27.99,Cash,Mobile App,West
+T0000555,3/10/2024,C016553,Male,45-54,VIP,P1067,Cookware Set,Home,Brand 1,5,74.76,0,373.8,Credit Card,In-Store,South
+T0000758,3/10/2024,C010086,Female,55+,Loyal,P1033,Milk,Groceries,Brand 3,4,37.2,0,148.8,Credit Card,Online,East
+T0000935,3/10/2024,C016323,Other,18-24,Returning,P1107,Novel,Books,Brand 2,1,208.14,10,187.33,PayPal,Mobile App,East
+T0000021,3/11/2024,C024924,Other,25-34,Returning,P1105,Building Blocks,Toys,Brand 3,1,454.25,5,431.54,PayPal,Mobile App,South
+T0000685,3/13/2024,C000429,Male,45-54,New,P1078,Yoga Mat,Sports,Brand 3,1,41.65,0,41.65,PayPal,Mobile App,North
+T0000687,3/13/2024,C009959,Male,25-34,New,P1006,Headphones,Electronics,Brand 3,1,82.22,0,82.22,Credit Card,Mobile App,South
+T0000645,3/14/2024,C002593,Male,35-44,Returning,P1109,Cookbook,Books,Brand 1,1,118.26,15,100.52,Cash,In-Store,East
+T0000838,3/14/2024,C001209,Other,25-34,VIP,P1030,Sneakers,Clothing,Brand 3,1,27.99,0,27.99,Credit Card,In-Store,Central
+T0000621,3/15/2024,C016488,Female,35-44,New,P1072,Storage Box,Home,Brand 3,3,103.36,0,310.08,Gift Card,In-Store,Central
+T0000989,3/15/2024,C003123,Other,18-24,New,P1033,Milk,Groceries,Brand 3,1,37.2,5,35.34,Cash,Online,West
+T0000134,3/16/2024,C014475,Female,55+,Loyal,P1021,Jeans,Clothing,Brand 3,1,307.87,0,307.87,PayPal,Mobile App,East
+T0000331,3/18/2024,C011161,Other,55+,VIP,P1030,Sneakers,Clothing,Brand 3,2,27.99,0,55.98,Cash,Online,East
+T0000450,3/20/2024,C007799,Female,35-44,Returning,P1096,Toy Car,Toys,Brand 3,3,249.43,0,748.29,Credit Card,Mobile App,East
+T0000699,3/21/2024,C001833,Female,35-44,VIP,P1049,Moisturizer,Beauty,Brand 1,2,275.62,20,440.99,PayPal,Online,South
+T0000659,3/22/2024,C013836,Other,25-34,Loyal,P1034,Bread,Groceries,Brand 1,1,474.7,10,427.23,Cash,Mobile App,Central
+T0000802,3/22/2024,C004656,Other,55+,Loyal,P1089,Water Bottle,Sports,Brand 2,1,444.17,0,444.17,PayPal,Mobile App,North
+T0000127,3/23/2024,C010767,Other,55+,VIP,P1084,Dumbbells,Sports,Brand 3,1,36.46,5,34.64,Cash,Mobile App,West
+T0000159,3/23/2024,C010555,Other,25-34,New,P1010,Smartwatch,Electronics,Brand 1,1,355.5,15,302.18,Debit Card,In-Store,Central
+T0000294,3/23/2024,C022372,Other,55+,Returning,P1049,Moisturizer,Beauty,Brand 1,1,275.62,15,234.28,Cash,Online,South
+T0000665,3/23/2024,C024595,Male,18-24,Loyal,P1043,Cereal,Groceries,Brand 1,4,22.02,5,83.68,PayPal,Online,Central
+T0000191,3/27/2024,C016534,Other,25-34,New,P1092,Puzzle,Toys,Brand 2,2,358.06,0,716.12,Debit Card,Mobile App,West
+T0000420,3/27/2024,C019031,Male,55+,Returning,P1059,Sunscreen,Beauty,Brand 2,1,27.39,10,24.65,PayPal,Online,Central
+T0000834,3/27/2024,C020736,Female,25-34,Returning,P1063,Bedsheet,Home,Brand 3,2,415.23,5,788.94,Credit Card,Online,North
+T0000946,3/27/2024,C022545,Male,35-44,New,P1076,Yoga Mat,Sports,Brand 1,1,365.86,0,365.86,Cash,Online,North
+T0000100,3/28/2024,C008133,Male,55+,VIP,P1039,Rice,Groceries,Brand 3,1,343.7,0,343.7,Gift Card,Mobile App,Central
+T0000414,3/29/2024,C018124,Female,18-24,Loyal,P1042,Coffee,Groceries,Brand 3,1,250.11,20,200.09,Debit Card,In-Store,Central
+T0000617,3/29/2024,C009042,Female,35-44,VIP,P1021,Jeans,Clothing,Brand 3,1,307.87,10,277.08,PayPal,Mobile App,South
+T0000373,3/30/2024,C014388,Male,25-34,Returning,P1045,Cereal,Groceries,Brand 3,1,133.1,0,133.1,Gift Card,Mobile App,East
+T0000434,3/30/2024,C009168,Female,25-34,VIP,P1008,Laptop,Electronics,Brand 2,2,433.76,0,867.52,Debit Card,Mobile App,Central
+T0000495,4/1/2024,C007283,Female,25-34,Loyal,P1084,Dumbbells,Sports,Brand 3,2,36.46,0,72.92,PayPal,In-Store,East
+T0000515,4/1/2024,C003619,Other,45-54,Returning,P1086,Running Shoes,Sports,Brand 2,3,165.97,15,423.22,Credit Card,Mobile App,North
+T0000164,4/3/2024,C002798,Male,45-54,New,P1009,Laptop,Electronics,Brand 3,5,302.55,10,1361.48,Cash,Online,Central
+T0000531,4/3/2024,C019799,Other,35-44,Returning,P1001,Smartphone,Electronics,Brand 1,4,190.4,0,761.6,PayPal,In-Store,East
+T0000612,4/3/2024,C004763,Female,55+,VIP,P1103,Building Blocks,Toys,Brand 1,3,160.61,10,433.65,Credit Card,Online,East
+T0000821,4/4/2024,C001864,Other,25-34,New,P1080,Football,Sports,Brand 2,1,62.36,15,53.01,Credit Card,Online,Central
+T0000062,4/5/2024,C024614,Male,35-44,Returning,P1043,Cereal,Groceries,Brand 1,3,22.02,0,66.06,Debit Card,Online,North
+T0000519,4/5/2024,C012211,Female,25-34,New,P1035,Bread,Groceries,Brand 2,1,482.99,20,386.39,PayPal,In-Store,West
+T0000027,4/6/2024,C003177,Other,45-54,Loyal,P1025,Dress,Clothing,Brand 1,1,230.75,0,230.75,PayPal,In-Store,West
+T0000428,4/6/2024,C015141,Male,25-34,New,P1032,Milk,Groceries,Brand 2,1,89.41,0,89.41,Credit Card,Online,South
+T0000561,4/8/2024,C005486,Other,55+,New,P1011,Smartwatch,Electronics,Brand 2,3,15.19,10,41.01,Credit Card,Online,South
+T0000682,4/8/2024,C017145,Other,18-24,New,P1015,Bluetooth Speaker,Electronics,Brand 3,1,95,0,95,Debit Card,Online,North
+T0000533,4/9/2024,C024882,Other,25-34,New,P1015,Bluetooth Speaker,Electronics,Brand 3,1,95,20,76,Cash,In-Store,East
+T0000129,4/10/2024,C024916,Other,18-24,VIP,P1056,Perfume,Beauty,Brand 2,2,461.33,0,922.66,Debit Card,Mobile App,East
+T0000574,4/10/2024,C006469,Other,55+,VIP,P1033,Milk,Groceries,Brand 3,1,37.2,0,37.2,Cash,In-Store,South
+T0000856,4/10/2024,C007770,Other,45-54,Returning,P1030,Sneakers,Clothing,Brand 3,5,27.99,5,132.95,PayPal,Online,North
+T0000923,4/11/2024,C007013,Other,45-54,Loyal,P1001,Smartphone,Electronics,Brand 1,1,190.4,0,190.4,Gift Card,Online,West
+T0000040,4/12/2024,C002401,Other,25-34,Loyal,P1073,Towel,Home,Brand 1,3,7.73,10,20.87,Debit Card,In-Store,North
+T0000125,4/12/2024,C014428,Male,55+,VIP,P1043,Cereal,Groceries,Brand 1,1,22.02,0,22.02,Credit Card,Mobile App,South
+T0000472,4/12/2024,C003462,Other,18-24,Loyal,P1075,Towel,Home,Brand 3,2,354.89,0,709.78,Gift Card,In-Store,West
+T0000517,4/12/2024,C005725,Male,35-44,Loyal,P1007,Laptop,Electronics,Brand 1,2,33.75,5,64.12,Cash,In-Store,North
+T0000637,4/12/2024,C023620,Female,25-34,VIP,P1105,Building Blocks,Toys,Brand 3,1,454.25,0,454.25,PayPal,Online,South
+T0000445,4/13/2024,C011029,Female,35-44,Returning,P1076,Yoga Mat,Sports,Brand 1,1,365.86,0,365.86,Debit Card,Mobile App,West
+T0000511,4/13/2024,C021709,Other,35-44,Returning,P1085,Running Shoes,Sports,Brand 1,2,158.94,0,317.88,PayPal,Online,Central
+T0000516,4/13/2024,C008386,Other,25-34,VIP,P1093,Puzzle,Toys,Brand 3,2,381.59,15,648.7,Cash,In-Store,West
+T0000372,4/14/2024,C024117,Other,25-34,Loyal,P1055,Perfume,Beauty,Brand 1,1,300.96,0,300.96,Credit Card,In-Store,East
+T0000390,4/14/2024,C003382,Female,35-44,Loyal,P1012,Smartwatch,Electronics,Brand 3,1,485.11,0,485.11,Debit Card,In-Store,South
+T0000184,4/15/2024,C004799,Female,25-34,Returning,P1031,Milk,Groceries,Brand 1,1,305.73,0,305.73,Gift Card,Online,North
+T0000690,4/16/2024,C005467,Male,55+,VIP,P1114,Notebook,Books,Brand 3,1,405.02,15,344.27,Gift Card,In-Store,South
+T0000018,4/18/2024,C020490,Female,55+,Returning,P1065,Lamp,Home,Brand 2,5,144.06,0,720.3,Debit Card,In-Store,South
+T0000043,4/19/2024,C024328,Other,25-34,Loyal,P1015,Bluetooth Speaker,Electronics,Brand 3,2,95,0,190,Cash,Mobile App,South
+T0000065,4/19/2024,C013932,Male,25-34,VIP,P1115,Textbook,Books,Brand 1,4,318.53,15,1083,Credit Card,Mobile App,South
+T0000277,4/19/2024,C010979,Female,45-54,VIP,P1078,Yoga Mat,Sports,Brand 3,1,41.65,0,41.65,Debit Card,Mobile App,West
+T0000683,4/19/2024,C015905,Male,18-24,New,P1026,Dress,Clothing,Brand 2,1,393.66,0,393.66,Gift Card,Mobile App,West
+T0000783,4/19/2024,C010679,Other,18-24,Loyal,P1105,Building Blocks,Toys,Brand 3,1,454.25,15,386.11,Gift Card,In-Store,West
+T0000924,4/19/2024,C005927,Female,45-54,VIP,P1087,Running Shoes,Sports,Brand 3,1,366.16,0,366.16,Debit Card,Mobile App,South
+T0000967,4/19/2024,C005740,Male,35-44,VIP,P1019,Jeans,Clothing,Brand 1,1,218.81,25,164.11,PayPal,In-Store,Central
+T0000918,4/20/2024,C001075,Other,55+,New,P1026,Dress,Clothing,Brand 2,5,393.66,20,1574.64,PayPal,Online,East
+T0000029,4/21/2024,C008148,Male,25-34,VIP,P1103,Building Blocks,Toys,Brand 1,2,160.61,0,321.22,Debit Card,In-Store,South
+T0000271,4/21/2024,C020175,Other,55+,Returning,P1018,T-Shirt,Clothing,Brand 3,1,264.75,30,185.32,Debit Card,Online,Central
+T0000788,4/21/2024,C022463,Other,45-54,Loyal,P1077,Yoga Mat,Sports,Brand 2,1,386.78,0,386.78,PayPal,Mobile App,North
+T0000001,4/24/2024,C000820,Other,35-44,Returning,P1082,Dumbbells,Sports,Brand 1,2,313.53,20,501.65,Debit Card,Online,North
+T0000397,4/25/2024,C007900,Female,55+,New,P1050,Moisturizer,Beauty,Brand 2,2,96.5,0,193,Gift Card,Online,East
+T0000925,4/25/2024,C024950,Female,18-24,VIP,P1053,Lipstick,Beauty,Brand 2,1,470.05,0,470.05,Credit Card,Mobile App,South
+T0000118,4/26/2024,C015121,Male,25-34,VIP,P1029,Sneakers,Clothing,Brand 2,1,298.25,5,283.34,Cash,Mobile App,East
+T0000156,4/26/2024,C024434,Male,45-54,VIP,P1068,Cookware Set,Home,Brand 2,1,402.09,10,361.88,Cash,Mobile App,Central
+T0000183,4/26/2024,C017387,Other,25-34,Loyal,P1082,Dumbbells,Sports,Brand 1,1,313.53,20,250.82,Cash,Mobile App,South
+T0000371,4/26/2024,C008779,Other,35-44,New,P1074,Towel,Home,Brand 2,2,408.65,0,817.3,PayPal,Mobile App,South
+T0000081,4/27/2024,C005367,Female,18-24,New,P1096,Toy Car,Toys,Brand 3,3,249.43,0,748.29,Cash,Mobile App,West
+T0000106,4/27/2024,C017845,Male,25-34,Loyal,P1055,Perfume,Beauty,Brand 1,1,300.96,10,270.86,Debit Card,Online,North
+T0000180,4/27/2024,C013273,Male,35-44,Returning,P1038,Rice,Groceries,Brand 2,4,53.35,0,213.4,Gift Card,In-Store,East
+T0000114,4/28/2024,C013245,Other,18-24,VIP,P1042,Coffee,Groceries,Brand 3,2,250.11,0,500.22,PayPal,Online,South
+T0000725,5/1/2024,C006034,Female,25-34,New,P1069,Cookware Set,Home,Brand 3,2,41.9,0,83.8,Cash,In-Store,West
+T0000837,5/1/2024,C006937,Other,55+,VIP,P1052,Lipstick,Beauty,Brand 1,1,388.69,5,369.26,Gift Card,Online,Central
+T0000177,5/2/2024,C000254,Female,45-54,Returning,P1042,Coffee,Groceries,Brand 3,1,250.11,20,200.09,Debit Card,In-Store,Central
+T0000906,5/2/2024,C012230,Other,55+,New,P1089,Water Bottle,Sports,Brand 2,1,444.17,0,444.17,Cash,Online,Central
+T0000083,5/3/2024,C018545,Male,35-44,VIP,P1104,Building Blocks,Toys,Brand 2,1,256.74,0,256.74,Cash,Online,Central
+T0000389,5/3/2024,C013839,Other,25-34,VIP,P1105,Building Blocks,Toys,Brand 3,1,454.25,20,363.4,Credit Card,Online,West
+T0000965,5/3/2024,C017104,Other,55+,Loyal,P1120,Children Book,Books,Brand 3,1,271.97,0,271.97,PayPal,Online,South
+T0000066,5/4/2024,C014958,Male,45-54,Loyal,P1118,Children Book,Books,Brand 1,1,97.35,0,97.35,PayPal,Mobile App,Central
+T0000210,5/4/2024,C001565,Male,45-54,VIP,P1039,Rice,Groceries,Brand 3,1,343.7,0,343.7,Credit Card,Online,West
+T0000268,5/4/2024,C018792,Other,55+,VIP,P1037,Rice,Groceries,Brand 1,1,155.78,0,155.78,PayPal,In-Store,South
+T0000151,5/5/2024,C014901,Male,25-34,New,P1025,Dress,Clothing,Brand 1,2,230.75,10,415.35,Credit Card,In-Store,South
+T0000966,5/5/2024,C010270,Female,55+,VIP,P1077,Yoga Mat,Sports,Brand 2,1,386.78,0,386.78,Debit Card,In-Store,South
+T0000740,5/6/2024,C002989,Male,45-54,Loyal,P1092,Puzzle,Toys,Brand 2,1,358.06,20,286.45,Credit Card,Mobile App,West
+T0000847,5/9/2024,C006756,Male,35-44,VIP,P1089,Water Bottle,Sports,Brand 2,1,444.17,0,444.17,PayPal,Online,South
+T0000594,5/10/2024,C018793,Other,25-34,Returning,P1006,Headphones,Electronics,Brand 3,2,82.22,15,139.77,Gift Card,Online,Central
+T0000859,5/10/2024,C001052,Other,55+,New,P1043,Cereal,Groceries,Brand 1,1,22.02,0,22.02,Cash,Online,North
+T0000539,5/11/2024,C003394,Female,55+,Loyal,P1023,Jacket,Clothing,Brand 2,5,149.61,25,561.04,Gift Card,In-Store,West
+T0000916,5/11/2024,C022749,Male,25-34,Loyal,P1029,Sneakers,Clothing,Brand 2,1,298.25,0,298.25,Debit Card,Online,South
+T0000237,5/12/2024,C014177,Other,18-24,New,P1024,Jacket,Clothing,Brand 3,1,186.35,0,186.35,Gift Card,Online,East
+T0000504,5/12/2024,C003366,Female,55+,Loyal,P1040,Coffee,Groceries,Brand 1,1,222.88,0,222.88,Debit Card,Online,North
+T0000443,5/13/2024,C011166,Other,25-34,Loyal,P1026,Dress,Clothing,Brand 2,2,393.66,5,747.95,Credit Card,Online,South
+T0000985,5/13/2024,C014134,Male,55+,Returning,P1049,Moisturizer,Beauty,Brand 1,2,275.62,0,551.24,Cash,Mobile App,South
+T0000140,5/14/2024,C002954,Female,35-44,VIP,P1094,Toy Car,Toys,Brand 1,2,282.83,10,509.09,Debit Card,Online,South
+T0000507,5/14/2024,C006921,Other,18-24,Returning,P1094,Toy Car,Toys,Brand 1,1,282.83,0,282.83,Credit Card,In-Store,North
+T0000914,5/14/2024,C000570,Female,35-44,Loyal,P1015,Bluetooth Speaker,Electronics,Brand 3,1,95,0,95,Cash,Online,West
+T0000290,5/15/2024,C016819,Female,45-54,New,P1059,Sunscreen,Beauty,Brand 2,1,27.39,0,27.39,Gift Card,In-Store,East
+T0000703,5/15/2024,C011016,Male,45-54,New,P1019,Jeans,Clothing,Brand 1,1,218.81,0,218.81,Gift Card,In-Store,East
+T0000880,5/15/2024,C015529,Female,45-54,VIP,P1120,Children Book,Books,Brand 3,1,271.97,0,271.97,Credit Card,In-Store,South
+T0000285,5/16/2024,C015670,Male,45-54,Loyal,P1029,Sneakers,Clothing,Brand 2,2,298.25,0,596.5,PayPal,Mobile App,Central
+T0000541,5/16/2024,C004528,Female,55+,Loyal,P1104,Building Blocks,Toys,Brand 2,2,256.74,0,513.48,Gift Card,In-Store,Central
+T0000676,5/17/2024,C008215,Male,45-54,VIP,P1046,Shampoo,Beauty,Brand 1,1,332.95,10,299.65,Gift Card,In-Store,Central
+T0000653,5/18/2024,C022860,Other,25-34,VIP,P1057,Perfume,Beauty,Brand 3,5,48.8,25,183,Gift Card,In-Store,Central
+T0000694,5/18/2024,C009891,Male,35-44,Returning,P1067,Cookware Set,Home,Brand 1,1,74.76,0,74.76,Debit Card,In-Store,North
+T0000724,5/18/2024,C014093,Male,55+,Returning,P1117,Textbook,Books,Brand 3,2,402.82,0,805.64,Cash,Online,Central
+T0000120,5/19/2024,C002288,Female,45-54,Loyal,P1066,Lamp,Home,Brand 3,4,273.63,0,1094.52,Gift Card,In-Store,North
+T0000656,5/19/2024,C011269,Female,45-54,New,P1067,Cookware Set,Home,Brand 1,1,74.76,0,74.76,PayPal,In-Store,East
+T0000405,5/20/2024,C022987,Male,25-34,VIP,P1091,Puzzle,Toys,Brand 1,2,64.2,0,128.4,Cash,Mobile App,Central
+T0000721,5/20/2024,C002877,Other,45-54,Returning,P1085,Running Shoes,Sports,Brand 1,1,158.94,0,158.94,PayPal,Online,Central
+T0000365,5/21/2024,C018836,Female,45-54,Returning,P1077,Yoga Mat,Sports,Brand 2,1,386.78,0,386.78,PayPal,Mobile App,Central
+T0000723,5/21/2024,C019040,Other,25-34,Returning,P1084,Dumbbells,Sports,Brand 3,2,36.46,0,72.92,Cash,Mobile App,Central
+T0000233,5/22/2024,C007758,Female,18-24,Loyal,P1026,Dress,Clothing,Brand 2,2,393.66,0,787.32,Gift Card,Mobile App,East
+T0000316,5/23/2024,C023604,Other,45-54,Returning,P1022,Jacket,Clothing,Brand 1,1,74.05,20,59.24,Gift Card,Mobile App,North
+T0000580,5/23/2024,C017650,Male,35-44,New,P1110,Cookbook,Books,Brand 2,1,43.11,0,43.11,Credit Card,Online,Central
+T0000195,5/24/2024,C011463,Female,45-54,Returning,P1085,Running Shoes,Sports,Brand 1,4,158.94,10,572.18,Gift Card,Mobile App,North
+T0000247,5/24/2024,C003173,Male,35-44,VIP,P1032,Milk,Groceries,Brand 2,2,89.41,0,178.82,Gift Card,In-Store,South
+T0000170,5/26/2024,C018558,Other,45-54,New,P1112,Notebook,Books,Brand 1,1,84.8,0,84.8,Debit Card,Mobile App,North
+T0000930,5/26/2024,C012938,Female,55+,New,P1016,T-Shirt,Clothing,Brand 1,3,95.79,15,244.26,Debit Card,Online,East
+T0000245,5/27/2024,C010243,Other,35-44,Loyal,P1078,Yoga Mat,Sports,Brand 3,1,41.65,5,39.57,PayPal,Online,East
+T0000328,5/27/2024,C024650,Other,45-54,New,P1076,Yoga Mat,Sports,Brand 1,2,365.86,0,731.72,Cash,Online,Central
+T0000474,5/27/2024,C020259,Other,45-54,New,P1052,Lipstick,Beauty,Brand 1,1,388.69,0,388.69,PayPal,In-Store,South
+T0000780,5/27/2024,C020216,Female,35-44,VIP,P1029,Sneakers,Clothing,Brand 2,1,298.25,5,283.34,Debit Card,Mobile App,East
+T0000911,5/27/2024,C000423,Male,55+,Loyal,P1106,Novel,Books,Brand 1,1,128.4,0,128.4,Cash,In-Store,West
+T0000313,5/29/2024,C000532,Female,55+,VIP,P1095,Toy Car,Toys,Brand 2,1,386.63,20,309.3,Cash,Online,South
+T0000907,5/29/2024,C010476,Female,25-34,Loyal,P1008,Laptop,Electronics,Brand 2,1,433.76,5,412.07,Debit Card,Online,East
+T0000153,5/31/2024,C019530,Male,35-44,Returning,P1043,Cereal,Groceries,Brand 1,1,22.02,0,22.02,Debit Card,Mobile App,East
+T0000999,5/31/2024,C004052,Female,18-24,Returning,P1109,Cookbook,Books,Brand 1,1,118.26,5,112.35,Cash,Online,South
+T0000773,6/1/2024,C005161,Female,18-24,New,P1035,Bread,Groceries,Brand 2,5,482.99,15,2052.71,Gift Card,Mobile App,Central
+T0000490,6/2/2024,C016951,Male,18-24,VIP,P1025,Dress,Clothing,Brand 1,2,230.75,0,461.5,Cash,Mobile App,South
+T0000638,6/2/2024,C015499,Male,25-34,VIP,P1103,Building Blocks,Toys,Brand 1,1,160.61,15,136.52,PayPal,Online,Central
+T0000879,6/3/2024,C006694,Other,18-24,Loyal,P1064,Lamp,Home,Brand 1,1,181.59,0,181.59,PayPal,Mobile App,Central
+T0000958,6/3/2024,C024460,Other,35-44,VIP,P1031,Milk,Groceries,Brand 1,2,305.73,0,611.46,PayPal,In-Store,North
+T0000996,6/3/2024,C018209,Other,45-54,New,P1098,Board Game,Toys,Brand 2,1,216.63,0,216.63,Debit Card,Online,North
+T0000829,6/4/2024,C022940,Female,45-54,New,P1035,Bread,Groceries,Brand 2,2,482.99,0,965.98,Gift Card,Mobile App,West
+T0000085,6/5/2024,C014271,Male,55+,Loyal,P1091,Puzzle,Toys,Brand 1,1,64.2,0,64.2,Gift Card,Mobile App,West
+T0000348,6/6/2024,C023437,Female,45-54,New,P1085,Running Shoes,Sports,Brand 1,3,158.94,0,476.82,PayPal,Mobile App,West
+T0000674,6/6/2024,C022982,Other,18-24,Returning,P1083,Dumbbells,Sports,Brand 2,5,168.79,0,843.95,PayPal,Online,East
+T0000167,6/7/2024,C021520,Female,25-34,New,P1028,Sneakers,Clothing,Brand 1,1,259.55,20,207.64,Cash,Mobile App,East
+T0000553,6/7/2024,C001309,Male,35-44,New,P1091,Puzzle,Toys,Brand 1,1,64.2,5,60.99,Gift Card,Mobile App,East
+T0000696,6/8/2024,C004536,Female,35-44,Returning,P1046,Shampoo,Beauty,Brand 1,2,332.95,10,599.31,Debit Card,In-Store,East
+T0000384,6/10/2024,C014461,Female,18-24,VIP,P1119,Children Book,Books,Brand 2,2,446.82,0,893.64,Debit Card,Mobile App,South
+T0000501,6/11/2024,C016043,Male,25-34,VIP,P1098,Board Game,Toys,Brand 2,3,216.63,25,487.42,PayPal,In-Store,West
+T0000248,6/12/2024,C010730,Other,35-44,Returning,P1111,Cookbook,Books,Brand 3,3,148.43,20,356.23,Debit Card,In-Store,Central
+T0000438,6/12/2024,C003282,Male,25-34,Loyal,P1030,Sneakers,Clothing,Brand 3,1,27.99,0,27.99,Gift Card,Mobile App,North
+T0000521,6/12/2024,C003399,Female,55+,VIP,P1109,Cookbook,Books,Brand 1,2,118.26,0,236.52,Gift Card,Mobile App,West
+T0000572,6/13/2024,C006030,Male,55+,Loyal,P1019,Jeans,Clothing,Brand 1,1,218.81,0,218.81,Debit Card,Online,South
+T0000238,6/14/2024,C010573,Other,25-34,Loyal,P1022,Jacket,Clothing,Brand 1,3,74.05,0,222.15,Gift Card,In-Store,North
+T0000824,6/14/2024,C002425,Female,18-24,VIP,P1033,Milk,Groceries,Brand 3,2,37.2,0,74.4,PayPal,In-Store,North
+T0000912,6/15/2024,C003357,Male,25-34,Returning,P1044,Cereal,Groceries,Brand 2,2,455.11,10,819.2,Debit Card,Mobile App,Central
+T0000730,6/16/2024,C006333,Male,18-24,VIP,P1018,T-Shirt,Clothing,Brand 3,2,264.75,0,529.5,Credit Card,In-Store,West
+T0000357,6/17/2024,C024265,Male,55+,Returning,P1087,Running Shoes,Sports,Brand 3,1,366.16,0,366.16,Gift Card,Online,East
+T0000527,6/18/2024,C002454,Female,35-44,Returning,P1112,Notebook,Books,Brand 1,2,84.8,0,169.6,Cash,In-Store,North
+T0000764,6/18/2024,C018710,Other,45-54,Returning,P1108,Novel,Books,Brand 3,1,379,15,322.15,Gift Card,Online,East
+T0000736,6/19/2024,C013844,Female,55+,New,P1060,Sunscreen,Beauty,Brand 3,2,166.04,30,232.46,Gift Card,Online,West
+T0000340,6/20/2024,C014244,Female,45-54,Loyal,P1009,Laptop,Electronics,Brand 3,2,302.55,20,484.08,PayPal,Online,East
+T0000369,6/20/2024,C002709,Other,18-24,Returning,P1063,Bedsheet,Home,Brand 3,1,415.23,0,415.23,Cash,Online,East
+T0000598,6/20/2024,C023731,Other,35-44,VIP,P1034,Bread,Groceries,Brand 1,1,474.7,5,450.96,Gift Card,Mobile App,North
+T0000431,6/21/2024,C018806,Female,45-54,VIP,P1007,Laptop,Electronics,Brand 1,1,33.75,10,30.38,Credit Card,In-Store,West
+T0000461,6/23/2024,C020913,Female,18-24,VIP,P1027,Dress,Clothing,Brand 3,1,103.84,10,93.46,Credit Card,In-Store,West
+T0000843,6/26/2024,C010994,Male,18-24,Loyal,P1076,Yoga Mat,Sports,Brand 1,1,365.86,10,329.27,Debit Card,In-Store,South
+T0000979,6/26/2024,C022527,Other,35-44,Loyal,P1034,Bread,Groceries,Brand 1,1,474.7,0,474.7,Debit Card,Online,West
+T0000154,6/27/2024,C003603,Other,18-24,Returning,P1103,Building Blocks,Toys,Brand 1,1,160.61,20,128.49,Credit Card,In-Store,South
+T0000302,6/28/2024,C020513,Other,45-54,VIP,P1113,Notebook,Books,Brand 2,1,465.2,10,418.68,Credit Card,In-Store,West
+T0000448,6/30/2024,C023883,Male,55+,VIP,P1017,T-Shirt,Clothing,Brand 2,2,155.6,20,248.96,Gift Card,Online,South
+T0000050,7/2/2024,C024136,Female,45-54,Returning,P1004,Headphones,Electronics,Brand 1,2,301.34,15,512.28,Cash,Online,North
+T0000321,7/2/2024,C003507,Male,55+,Returning,P1104,Building Blocks,Toys,Brand 2,1,256.74,0,256.74,Debit Card,Online,Central
+T0000846,7/2/2024,C002921,Other,55+,Loyal,P1001,Smartphone,Electronics,Brand 1,2,190.4,10,342.72,PayPal,Mobile App,West
+T0000878,7/2/2024,C009450,Male,18-24,Returning,P1115,Textbook,Books,Brand 1,2,318.53,0,637.06,Cash,Online,South
+T0000169,7/3/2024,C008955,Other,35-44,Loyal,P1004,Headphones,Electronics,Brand 1,1,301.34,0,301.34,Cash,Online,South
+T0000346,7/3/2024,C022339,Other,18-24,VIP,P1070,Storage Box,Home,Brand 1,5,493.51,15,2097.42,Debit Card,In-Store,East
+T0000986,7/3/2024,C013387,Male,18-24,Loyal,P1054,Lipstick,Beauty,Brand 3,2,447.94,25,671.91,Cash,Online,Central
+T0000200,7/4/2024,C022704,Other,25-34,VIP,P1021,Jeans,Clothing,Brand 3,5,307.87,0,1539.35,Credit Card,In-Store,East
+T0000666,7/4/2024,C006298,Female,45-54,New,P1061,Bedsheet,Home,Brand 1,1,197.4,5,187.53,Credit Card,Mobile App,South
+T0000980,7/5/2024,C012895,Female,55+,Returning,P1048,Shampoo,Beauty,Brand 3,5,262.43,10,1180.94,Credit Card,Online,Central
+T0000997,7/6/2024,C001176,Female,35-44,Returning,P1030,Sneakers,Clothing,Brand 3,1,27.99,20,22.39,PayPal,In-Store,North
+T0000717,7/9/2024,C006517,Other,45-54,New,P1012,Smartwatch,Electronics,Brand 3,2,485.11,20,776.18,Credit Card,Online,Central
+T0000463,7/10/2024,C014608,Male,35-44,VIP,P1048,Shampoo,Beauty,Brand 3,3,262.43,5,747.93,PayPal,In-Store,South
+T0000956,7/10/2024,C018903,Female,25-34,VIP,P1111,Cookbook,Books,Brand 3,1,148.43,0,148.43,Cash,Mobile App,Central
+T0000441,7/11/2024,C016130,Other,35-44,Returning,P1073,Towel,Home,Brand 1,1,7.73,0,7.73,PayPal,Online,North
+T0000309,7/13/2024,C024297,Male,45-54,Returning,P1028,Sneakers,Clothing,Brand 1,1,259.55,15,220.62,Gift Card,Mobile App,South
+T0000278,7/16/2024,C003692,Female,25-34,VIP,P1035,Bread,Groceries,Brand 2,1,482.99,30,338.09,Cash,Mobile App,South
+T0000480,7/16/2024,C006578,Male,25-34,New,P1023,Jacket,Clothing,Brand 2,1,149.61,25,112.21,PayPal,Online,East
+T0000909,7/17/2024,C020580,Male,18-24,Returning,P1066,Lamp,Home,Brand 3,1,273.63,15,232.59,Gift Card,In-Store,East
+T0000416,7/19/2024,C024002,Other,25-34,Returning,P1099,Board Game,Toys,Brand 3,2,17.58,5,33.4,Credit Card,In-Store,North
+T0000239,7/20/2024,C020810,Other,35-44,Returning,P1033,Milk,Groceries,Brand 3,2,37.2,0,74.4,Cash,Mobile App,Central
+T0000429,7/21/2024,C013127,Female,18-24,Loyal,P1017,T-Shirt,Clothing,Brand 2,1,155.6,0,155.6,Credit Card,Online,North
+T0000778,7/21/2024,C023361,Other,55+,New,P1043,Cereal,Groceries,Brand 1,2,22.02,0,44.04,PayPal,Mobile App,South
+T0000082,7/22/2024,C002491,Other,25-34,New,P1051,Moisturizer,Beauty,Brand 3,1,484.94,0,484.94,Cash,Mobile App,Central
+T0000481,7/22/2024,C008978,Female,45-54,VIP,P1091,Puzzle,Toys,Brand 1,2,64.2,0,128.4,Credit Card,Mobile App,North
+T0000920,7/23/2024,C006055,Other,35-44,New,P1076,Yoga Mat,Sports,Brand 1,2,365.86,10,658.55,Credit Card,Online,East
+T0000772,7/24/2024,C006310,Female,35-44,Loyal,P1042,Coffee,Groceries,Brand 3,3,250.11,0,750.33,PayPal,Mobile App,North
+T0000423,7/26/2024,C004461,Other,18-24,Returning,P1010,Smartwatch,Electronics,Brand 1,1,355.5,0,355.5,Credit Card,Online,West
+T0000628,7/26/2024,C008183,Other,35-44,Returning,P1030,Sneakers,Clothing,Brand 3,1,27.99,15,23.79,Credit Card,Online,North
+T0000608,7/27/2024,C013541,Other,55+,VIP,P1097,Board Game,Toys,Brand 1,5,263.75,5,1252.81,Debit Card,In-Store,Central
+T0000959,7/27/2024,C013515,Female,35-44,Returning,P1082,Dumbbells,Sports,Brand 1,1,313.53,0,313.53,Cash,Mobile App,Central
+T0000289,7/29/2024,C023492,Other,45-54,New,P1088,Water Bottle,Sports,Brand 1,1,320.59,0,320.59,Gift Card,In-Store,North
+T0000298,7/30/2024,C002205,Male,55+,New,P1031,Milk,Groceries,Brand 1,1,305.73,20,244.58,PayPal,Mobile App,North
+T0000355,7/30/2024,C017076,Female,35-44,VIP,P1059,Sunscreen,Beauty,Brand 2,2,27.39,0,54.78,Credit Card,In-Store,West
+T0000375,7/30/2024,C001946,Other,35-44,Loyal,P1105,Building Blocks,Toys,Brand 3,3,454.25,25,1022.06,Gift Card,Mobile App,South
+T0000774,7/30/2024,C017778,Female,55+,Loyal,P1014,Bluetooth Speaker,Electronics,Brand 2,1,110.11,20,88.09,Cash,Online,East
+T0000264,7/31/2024,C018380,Female,45-54,VIP,P1067,Cookware Set,Home,Brand 1,1,74.76,5,71.02,Cash,Online,West
+T0000747,7/31/2024,C001603,Male,25-34,New,P1105,Building Blocks,Toys,Brand 3,1,454.25,0,454.25,Cash,Online,South
+T0000785,8/1/2024,C022743,Other,45-54,VIP,P1044,Cereal,Groceries,Brand 2,2,455.11,10,819.2,Gift Card,In-Store,Central
+T0000468,8/4/2024,C006316,Male,18-24,VIP,P1022,Jacket,Clothing,Brand 1,5,74.05,0,370.25,Credit Card,Mobile App,West
+T0000795,8/4/2024,C021709,Male,45-54,Returning,P1070,Storage Box,Home,Brand 1,2,493.51,5,937.67,Debit Card,Mobile App,West
+T0000556,8/6/2024,C021737,Female,35-44,Loyal,P1114,Notebook,Books,Brand 3,3,405.02,0,1215.06,Cash,Online,Central
+T0000250,8/8/2024,C019116,Female,18-24,New,P1031,Milk,Groceries,Brand 1,2,305.73,10,550.31,Cash,In-Store,Central
+T0000640,8/8/2024,C008333,Female,18-24,VIP,P1008,Laptop,Electronics,Brand 2,2,433.76,10,780.77,Cash,In-Store,East
+T0000862,8/9/2024,C019385,Female,45-54,Loyal,P1063,Bedsheet,Home,Brand 3,1,415.23,5,394.47,Credit Card,Mobile App,West
+T0000393,8/10/2024,C002841,Male,25-34,New,P1111,Cookbook,Books,Brand 3,1,148.43,20,118.74,Gift Card,Mobile App,West
+T0000542,8/10/2024,C006583,Male,55+,Loyal,P1081,Football,Sports,Brand 3,1,432.24,0,432.24,Cash,Mobile App,South
+T0000789,8/10/2024,C004553,Other,18-24,Returning,P1012,Smartwatch,Electronics,Brand 3,1,485.11,0,485.11,Debit Card,In-Store,Central
+T0000080,8/11/2024,C015239,Other,35-44,Loyal,P1073,Towel,Home,Brand 1,2,7.73,10,13.91,Debit Card,Mobile App,Central
+T0000487,8/11/2024,C015293,Female,55+,VIP,P1033,Milk,Groceries,Brand 3,2,37.2,0,74.4,Gift Card,Online,North
+T0000437,8/12/2024,C000961,Female,18-24,VIP,P1077,Yoga Mat,Sports,Brand 2,1,386.78,0,386.78,Gift Card,In-Store,Central
+T0000439,8/12/2024,C018865,Female,35-44,Returning,P1098,Board Game,Toys,Brand 2,3,216.63,0,649.89,Debit Card,Online,Central
+T0000597,8/12/2024,C013461,Other,25-34,Returning,P1022,Jacket,Clothing,Brand 1,1,74.05,15,62.94,Gift Card,Mobile App,Central
+T0000892,8/13/2024,C014614,Female,18-24,Loyal,P1080,Football,Sports,Brand 2,2,62.36,0,124.72,Credit Card,Mobile App,South
+T0000413,8/16/2024,C016901,Male,45-54,New,P1023,Jacket,Clothing,Brand 2,1,149.61,0,149.61,PayPal,In-Store,East
+T0000528,8/16/2024,C018039,Other,45-54,VIP,P1065,Lamp,Home,Brand 2,2,144.06,0,288.12,Debit Card,Online,West
+T0000207,8/17/2024,C000924,Female,18-24,Loyal,P1048,Shampoo,Beauty,Brand 3,5,262.43,0,1312.15,Debit Card,Online,North
+T0000984,8/17/2024,C023383,Male,25-34,Loyal,P1016,T-Shirt,Clothing,Brand 1,1,95.79,5,91,Cash,Mobile App,West
+T0000198,8/19/2024,C004508,Male,18-24,Loyal,P1025,Dress,Clothing,Brand 1,1,230.75,0,230.75,Credit Card,Mobile App,Central
+T0000952,8/19/2024,C020466,Other,18-24,New,P1103,Building Blocks,Toys,Brand 1,4,160.61,0,642.44,Gift Card,In-Store,East
+T0000603,8/22/2024,C015799,Female,35-44,New,P1055,Perfume,Beauty,Brand 1,5,300.96,0,1504.8,PayPal,Online,East
+T0000178,8/23/2024,C016393,Other,35-44,New,P1091,Puzzle,Toys,Brand 1,1,64.2,30,44.94,PayPal,Mobile App,North
+T0000314,8/23/2024,C012447,Other,25-34,VIP,P1043,Cereal,Groceries,Brand 1,1,22.02,0,22.02,Gift Card,Mobile App,East
+T0000591,8/23/2024,C002527,Other,35-44,Returning,P1022,Jacket,Clothing,Brand 1,1,74.05,20,59.24,Debit Card,Online,South
+T0000616,8/25/2024,C020159,Male,18-24,Loyal,P1090,Water Bottle,Sports,Brand 3,3,238.75,0,716.25,Debit Card,Mobile App,North
+T0000442,8/26/2024,C019716,Male,18-24,VIP,P1008,Laptop,Electronics,Brand 2,3,433.76,10,1171.15,Credit Card,In-Store,Central
+T0000604,8/26/2024,C002747,Female,55+,VIP,P1062,Bedsheet,Home,Brand 2,1,139.32,10,125.39,Cash,Online,North
+T0000300,8/27/2024,C023971,Other,35-44,Loyal,P1038,Rice,Groceries,Brand 2,1,53.35,10,48.02,Debit Card,In-Store,South
+T0000709,8/27/2024,C006544,Other,35-44,Returning,P1006,Headphones,Electronics,Brand 3,1,82.22,5,78.11,Credit Card,Online,North
+T0000150,8/29/2024,C011885,Male,35-44,Loyal,P1057,Perfume,Beauty,Brand 3,2,48.8,10,87.84,Credit Card,In-Store,East
+T0000283,8/29/2024,C002036,Other,18-24,VIP,P1089,Water Bottle,Sports,Brand 2,4,444.17,0,1776.68,Cash,Online,West
+T0000786,8/29/2024,C005672,Other,18-24,VIP,P1089,Water Bottle,Sports,Brand 2,1,444.17,0,444.17,Credit Card,Mobile App,Central
+T0000201,8/31/2024,C014556,Other,35-44,VIP,P1087,Running Shoes,Sports,Brand 3,1,366.16,0,366.16,Debit Card,Mobile App,South
+T0000103,9/2/2024,C005696,Other,18-24,Returning,P1021,Jeans,Clothing,Brand 3,4,307.87,10,1108.33,Credit Card,In-Store,West
+T0000117,9/2/2024,C023259,Male,35-44,New,P1103,Building Blocks,Toys,Brand 1,2,160.61,0,321.22,Gift Card,In-Store,North
+T0000310,9/2/2024,C018091,Female,35-44,VIP,P1051,Moisturizer,Beauty,Brand 3,1,484.94,0,484.94,PayPal,Mobile App,East
+T0000839,9/5/2024,C022981,Other,25-34,New,P1006,Headphones,Electronics,Brand 3,2,82.22,0,164.44,Debit Card,Mobile App,North
+T0000323,9/6/2024,C022848,Male,35-44,New,P1073,Towel,Home,Brand 1,1,7.73,0,7.73,Credit Card,Online,West
+T0000010,9/7/2024,C005355,Female,45-54,Loyal,P1069,Cookware Set,Home,Brand 3,1,41.9,25,31.42,Gift Card,Online,East
+T0000041,9/7/2024,C012109,Female,25-34,VIP,P1113,Notebook,Books,Brand 2,2,465.2,0,930.4,Gift Card,Mobile App,East
+T0000063,9/7/2024,C015570,Other,18-24,VIP,P1006,Headphones,Electronics,Brand 3,1,82.22,20,65.78,PayPal,Mobile App,Central
+T0000131,9/7/2024,C017406,Female,55+,Returning,P1019,Jeans,Clothing,Brand 1,1,218.81,5,207.87,Debit Card,Online,North
+T0000775,9/7/2024,C005613,Male,35-44,Loyal,P1074,Towel,Home,Brand 2,1,408.65,15,347.35,Gift Card,In-Store,North
+T0000341,9/9/2024,C023623,Other,45-54,Returning,P1033,Milk,Groceries,Brand 3,2,37.2,0,74.4,PayPal,Online,South
+T0000863,9/9/2024,C008121,Female,45-54,Returning,P1095,Toy Car,Toys,Brand 2,4,386.63,0,1546.52,Gift Card,Online,Central
+T0000969,9/9/2024,C009101,Male,35-44,VIP,P1088,Water Bottle,Sports,Brand 1,1,320.59,0,320.59,Cash,In-Store,North
+T0000378,9/10/2024,C024952,Other,45-54,VIP,P1107,Novel,Books,Brand 2,1,208.14,0,208.14,Debit Card,Mobile App,East
+T0000987,9/11/2024,C012113,Other,45-54,New,P1058,Sunscreen,Beauty,Brand 1,1,102.01,0,102.01,Credit Card,In-Store,South
+T0000828,9/13/2024,C014611,Male,45-54,Returning,P1094,Toy Car,Toys,Brand 1,2,282.83,0,565.66,Credit Card,Online,West
+T0000564,9/14/2024,C018288,Male,55+,Returning,P1102,Doll,Toys,Brand 3,1,320.02,0,320.02,Cash,In-Store,West
+T0000648,9/14/2024,C024376,Other,18-24,Returning,P1085,Running Shoes,Sports,Brand 1,1,158.94,20,127.15,Debit Card,In-Store,North
+T0000322,9/15/2024,C011615,Female,45-54,New,P1068,Cookware Set,Home,Brand 2,1,402.09,10,361.88,Cash,In-Store,West
+T0000486,9/15/2024,C019935,Female,35-44,VIP,P1029,Sneakers,Clothing,Brand 2,4,298.25,5,1133.35,PayPal,In-Store,West
+T0000510,9/15/2024,C015546,Other,25-34,Returning,P1071,Storage Box,Home,Brand 2,1,387.26,0,387.26,Credit Card,In-Store,West
+T0000744,9/16/2024,C000401,Female,45-54,VIP,P1080,Football,Sports,Brand 2,1,62.36,15,53.01,Gift Card,Online,Central
+T0000409,9/18/2024,C003372,Other,18-24,Returning,P1021,Jeans,Clothing,Brand 3,1,307.87,20,246.3,Gift Card,Online,North
+T0000209,9/19/2024,C007067,Male,55+,VIP,P1003,Smartphone,Electronics,Brand 3,2,367.34,0,734.68,Credit Card,In-Store,South
+T0000559,9/19/2024,C017703,Other,35-44,New,P1050,Moisturizer,Beauty,Brand 2,3,96.5,0,289.5,Gift Card,In-Store,Central
+T0000809,9/20/2024,C000466,Other,18-24,Returning,P1110,Cookbook,Books,Brand 2,1,43.11,0,43.11,Gift Card,Mobile App,South
+T0000352,9/21/2024,C007275,Other,55+,Returning,P1013,Bluetooth Speaker,Electronics,Brand 1,1,417.06,0,417.06,PayPal,In-Store,West
+T0000712,9/21/2024,C017984,Female,55+,Returning,P1097,Board Game,Toys,Brand 1,1,263.75,0,263.75,Credit Card,In-Store,Central
+T0000406,9/22/2024,C005472,Female,25-34,Loyal,P1101,Doll,Toys,Brand 2,1,20.56,15,17.48,Credit Card,Online,East
+T0000992,9/23/2024,C005567,Other,45-54,Loyal,P1023,Jacket,Clothing,Brand 2,1,149.61,5,142.13,PayPal,Online,North
+T0000038,9/24/2024,C006694,Other,35-44,Returning,P1041,Coffee,Groceries,Brand 2,1,65.41,0,65.41,Cash,In-Store,South
+T0000311,9/24/2024,C011785,Other,45-54,VIP,P1040,Coffee,Groceries,Brand 1,1,222.88,0,222.88,Credit Card,Mobile App,West
+T0000607,9/24/2024,C017568,Female,55+,Loyal,P1033,Milk,Groceries,Brand 3,1,37.2,30,26.04,Gift Card,In-Store,West
+T0000650,9/25/2024,C020254,Male,18-24,VIP,P1014,Bluetooth Speaker,Electronics,Brand 2,1,110.11,20,88.09,Cash,Online,South
+T0000513,9/26/2024,C017143,Male,35-44,VIP,P1026,Dress,Clothing,Brand 2,1,393.66,15,334.61,Cash,Online,North
+T0000252,9/27/2024,C023839,Female,45-54,Loyal,P1113,Notebook,Books,Brand 2,1,465.2,0,465.2,Credit Card,In-Store,North
+T0000995,9/27/2024,C016941,Female,45-54,Returning,P1107,Novel,Books,Brand 2,1,208.14,30,145.7,Cash,Mobile App,West
+T0000013,9/28/2024,C004576,Male,55+,Loyal,P1019,Jeans,Clothing,Brand 1,1,218.81,0,218.81,Gift Card,In-Store,Central
+T0000425,9/28/2024,C003930,Male,25-34,Loyal,P1060,Sunscreen,Beauty,Brand 3,1,166.04,0,166.04,Gift Card,Online,South
+T0000825,9/28/2024,C005831,Female,18-24,VIP,P1034,Bread,Groceries,Brand 1,1,474.7,0,474.7,Debit Card,Mobile App,West
+T0000646,9/30/2024,C019838,Other,45-54,Loyal,P1091,Puzzle,Toys,Brand 1,1,64.2,0,64.2,PayPal,In-Store,Central
+T0000307,10/1/2024,C012360,Other,55+,New,P1007,Laptop,Electronics,Brand 1,2,33.75,0,67.5,Credit Card,Online,Central
+T0000382,10/1/2024,C010580,Female,35-44,Returning,P1064,Lamp,Home,Brand 1,1,181.59,0,181.59,Gift Card,In-Store,East
+T0000464,10/2/2024,C018490,Male,25-34,New,P1108,Novel,Books,Brand 3,1,379,0,379,Credit Card,Mobile App,East
+T0000660,10/2/2024,C013531,Male,18-24,Returning,P1104,Building Blocks,Toys,Brand 2,1,256.74,5,243.9,Debit Card,In-Store,North
+T0000817,10/3/2024,C008752,Male,35-44,VIP,P1043,Cereal,Groceries,Brand 1,1,22.02,0,22.02,PayPal,Mobile App,South
+T0000715,10/4/2024,C021725,Other,35-44,New,P1085,Running Shoes,Sports,Brand 1,1,158.94,5,150.99,Credit Card,In-Store,West
+T0000069,10/5/2024,C011006,Female,55+,New,P1031,Milk,Groceries,Brand 1,4,305.73,5,1161.77,Debit Card,Online,South
+T0000174,10/6/2024,C007064,Other,18-24,Loyal,P1054,Lipstick,Beauty,Brand 3,1,447.94,15,380.75,PayPal,Online,East
+T0000900,10/6/2024,C013583,Male,55+,VIP,P1082,Dumbbells,Sports,Brand 1,1,313.53,0,313.53,Gift Card,Online,South
+T0000588,10/7/2024,C024311,Female,55+,Returning,P1082,Dumbbells,Sports,Brand 1,2,313.53,0,627.06,PayPal,Mobile App,West
+T0000187,10/8/2024,C019380,Male,35-44,New,P1102,Doll,Toys,Brand 3,1,320.02,0,320.02,Cash,In-Store,West
+T0000297,10/9/2024,C006177,Other,18-24,New,P1020,Jeans,Clothing,Brand 2,1,149.16,0,149.16,PayPal,Mobile App,North
+T0000671,10/9/2024,C019160,Male,45-54,Returning,P1022,Jacket,Clothing,Brand 1,1,74.05,5,70.35,Credit Card,Online,Central
+T0000168,10/12/2024,C018813,Male,45-54,New,P1015,Bluetooth Speaker,Electronics,Brand 3,1,95,0,95,Gift Card,Mobile App,East
+T0000266,10/12/2024,C018288,Female,25-34,Loyal,P1032,Milk,Groceries,Brand 2,1,89.41,0,89.41,Cash,Mobile App,South
+T0000651,10/17/2024,C014522,Other,25-34,Returning,P1095,Toy Car,Toys,Brand 2,1,386.63,0,386.63,Gift Card,Online,North
+T0000943,10/18/2024,C010502,Male,18-24,New,P1099,Board Game,Toys,Brand 3,1,17.58,10,15.82,Debit Card,In-Store,East
+T0000116,10/21/2024,C014357,Other,45-54,New,P1017,T-Shirt,Clothing,Brand 2,1,155.6,15,132.26,Credit Card,Mobile App,Central
+T0000008,10/23/2024,C002615,Male,18-24,VIP,P1099,Board Game,Toys,Brand 3,4,17.58,0,70.32,Cash,In-Store,East
+T0000505,10/24/2024,C014940,Other,55+,Loyal,P1039,Rice,Groceries,Brand 3,1,343.7,0,343.7,PayPal,Mobile App,South
+T0000583,10/24/2024,C004388,Female,55+,New,P1094,Toy Car,Toys,Brand 1,1,282.83,0,282.83,PayPal,In-Store,Central
+T0000928,10/24/2024,C014024,Male,18-24,VIP,P1053,Lipstick,Beauty,Brand 2,1,470.05,25,352.54,Cash,Online,North
+T0000097,10/26/2024,C022853,Male,45-54,New,P1071,Storage Box,Home,Brand 2,1,387.26,25,290.44,Credit Card,Mobile App,East
+T0000017,10/27/2024,C014247,Male,45-54,New,P1015,Bluetooth Speaker,Electronics,Brand 3,1,95,0,95,Cash,Mobile App,South
+T0000222,10/27/2024,C010526,Male,18-24,Loyal,P1070,Storage Box,Home,Brand 1,1,493.51,0,493.51,Cash,In-Store,West
+T0000494,10/27/2024,C003199,Female,25-34,Loyal,P1024,Jacket,Clothing,Brand 3,1,186.35,10,167.72,Gift Card,Online,East
+T0000937,10/27/2024,C021696,Female,45-54,Loyal,P1026,Dress,Clothing,Brand 2,2,393.66,0,787.32,Gift Card,In-Store,Central
+T0000091,10/28/2024,C007262,Female,25-34,Loyal,P1012,Smartwatch,Electronics,Brand 3,1,485.11,0,485.11,Gift Card,In-Store,West
+T0000460,10/28/2024,C021694,Other,55+,VIP,P1012,Smartwatch,Electronics,Brand 3,1,485.11,0,485.11,Debit Card,Online,North
+T0000823,10/28/2024,C015302,Other,18-24,VIP,P1033,Milk,Groceries,Brand 3,1,37.2,0,37.2,Cash,In-Store,East
+T0000058,10/29/2024,C018167,Male,25-34,VIP,P1090,Water Bottle,Sports,Brand 3,1,238.75,10,214.88,PayPal,Mobile App,South
+T0000142,10/29/2024,C024464,Female,18-24,VIP,P1104,Building Blocks,Toys,Brand 2,1,256.74,15,218.23,Credit Card,Online,South
+T0000354,10/29/2024,C013631,Male,18-24,Returning,P1014,Bluetooth Speaker,Electronics,Brand 2,1,110.11,0,110.11,Cash,In-Store,East
+T0000121,11/1/2024,C019233,Other,45-54,Returning,P1037,Rice,Groceries,Brand 1,1,155.78,5,147.99,PayPal,Mobile App,West
+T0000258,11/2/2024,C019456,Female,55+,VIP,P1095,Toy Car,Toys,Brand 2,1,386.63,0,386.63,Gift Card,In-Store,West
+T0000427,11/2/2024,C008526,Male,18-24,VIP,P1087,Running Shoes,Sports,Brand 3,2,366.16,0,732.32,PayPal,Mobile App,Central
+T0000232,11/3/2024,C005162,Other,25-34,Loyal,P1115,Textbook,Books,Brand 1,1,318.53,0,318.53,Gift Card,Online,North
+T0000954,11/3/2024,C014186,Other,55+,Loyal,P1065,Lamp,Home,Brand 2,2,144.06,30,201.68,Debit Card,In-Store,West
+T0000096,11/5/2024,C000464,Other,55+,Returning,P1023,Jacket,Clothing,Brand 2,1,149.61,0,149.61,Cash,Online,North
+T0000135,11/5/2024,C006528,Female,45-54,New,P1059,Sunscreen,Beauty,Brand 2,2,27.39,15,46.56,Debit Card,In-Store,Central
+T0000282,11/5/2024,C019087,Other,55+,New,P1043,Cereal,Groceries,Brand 1,1,22.02,5,20.92,Cash,Mobile App,East
+T0000936,11/6/2024,C020381,Other,18-24,New,P1020,Jeans,Clothing,Brand 2,2,149.16,0,298.32,Gift Card,In-Store,West
+T0000108,11/7/2024,C022929,Female,35-44,VIP,P1089,Water Bottle,Sports,Brand 2,1,444.17,0,444.17,PayPal,Online,Central
+T0000415,11/7/2024,C024235,Other,25-34,VIP,P1101,Doll,Toys,Brand 2,3,20.56,0,61.68,Cash,Mobile App,West
+T0000806,11/7/2024,C023822,Other,35-44,New,P1096,Toy Car,Toys,Brand 3,1,249.43,5,236.96,PayPal,Mobile App,South
+T0000364,11/8/2024,C003833,Male,35-44,Returning,P1031,Milk,Groceries,Brand 1,1,305.73,30,214.01,Gift Card,In-Store,West
+T0000579,11/8/2024,C015958,Other,18-24,Returning,P1100,Doll,Toys,Brand 1,1,58.41,30,40.89,Gift Card,Online,East
+T0000708,11/8/2024,C005547,Female,55+,VIP,P1099,Board Game,Toys,Brand 3,1,17.58,0,17.58,Gift Card,Online,West
+T0000093,11/9/2024,C008238,Male,18-24,Returning,P1035,Bread,Groceries,Brand 2,2,482.99,25,724.49,Cash,Online,Central
+T0000883,11/9/2024,C005628,Female,25-34,VIP,P1017,T-Shirt,Clothing,Brand 2,1,155.6,0,155.6,Cash,In-Store,North
+T0000020,11/10/2024,C007847,Male,25-34,New,P1113,Notebook,Books,Brand 2,1,465.2,10,418.68,Credit Card,Mobile App,West
+T0000107,11/10/2024,C019499,Other,55+,Loyal,P1022,Jacket,Clothing,Brand 1,1,74.05,0,74.05,PayPal,Online,West
+T0000418,11/10/2024,C003407,Male,55+,Returning,P1109,Cookbook,Books,Brand 1,1,118.26,0,118.26,PayPal,In-Store,North
+T0000840,11/10/2024,C003189,Female,55+,Returning,P1116,Textbook,Books,Brand 2,1,436.37,0,436.37,Gift Card,Online,North
+T0000655,11/11/2024,C011986,Female,35-44,Returning,P1057,Perfume,Beauty,Brand 3,2,48.8,15,82.96,Cash,Online,North
+T0000182,11/13/2024,C024439,Female,25-34,Loyal,P1112,Notebook,Books,Brand 1,1,84.8,5,80.56,Debit Card,Online,Central
+T0000218,11/13/2024,C016889,Female,55+,VIP,P1120,Children Book,Books,Brand 3,3,271.97,0,815.91,Cash,Online,South
+T0000479,11/14/2024,C023252,Other,45-54,Returning,P1009,Laptop,Electronics,Brand 3,1,302.55,5,287.42,Gift Card,Mobile App,North
+T0000940,11/15/2024,C023453,Female,45-54,New,P1018,T-Shirt,Clothing,Brand 3,1,264.75,0,264.75,Gift Card,Mobile App,West
+T0000733,11/16/2024,C012916,Other,55+,New,P1093,Puzzle,Toys,Brand 3,5,381.59,0,1907.95,Gift Card,Online,West
+T0000057,11/17/2024,C021738,Male,35-44,Loyal,P1080,Football,Sports,Brand 2,1,62.36,0,62.36,PayPal,In-Store,West
+T0000344,11/17/2024,C005821,Female,35-44,Loyal,P1062,Bedsheet,Home,Brand 2,4,139.32,20,445.82,PayPal,Mobile App,South
+T0000424,11/17/2024,C013321,Male,55+,Loyal,P1060,Sunscreen,Beauty,Brand 3,2,166.04,0,332.08,Debit Card,In-Store,East
+T0000765,11/18/2024,C023261,Male,35-44,VIP,P1091,Puzzle,Toys,Brand 1,2,64.2,10,115.56,Credit Card,In-Store,South
+T0000499,11/19/2024,C023452,Male,18-24,VIP,P1019,Jeans,Clothing,Brand 1,1,218.81,15,185.99,Cash,Mobile App,South
+T0000577,11/19/2024,C014035,Male,18-24,Loyal,P1104,Building Blocks,Toys,Brand 2,2,256.74,0,513.48,Debit Card,Online,West
+T0000606,11/19/2024,C013398,Female,18-24,Returning,P1089,Water Bottle,Sports,Brand 2,1,444.17,10,399.75,PayPal,Mobile App,Central
+T0000633,11/19/2024,C022585,Male,18-24,Returning,P1059,Sunscreen,Beauty,Brand 2,2,27.39,0,54.78,PayPal,Mobile App,North
+T0000639,11/19/2024,C015946,Female,35-44,New,P1069,Cookware Set,Home,Brand 3,1,41.9,0,41.9,PayPal,Online,South
+T0000398,11/20/2024,C004325,Female,55+,VIP,P1120,Children Book,Books,Brand 3,1,271.97,0,271.97,Cash,Mobile App,South
+T0000449,11/21/2024,C020034,Male,55+,New,P1078,Yoga Mat,Sports,Brand 3,1,41.65,0,41.65,PayPal,Online,East
+T0000312,11/23/2024,C006657,Female,35-44,VIP,P1098,Board Game,Toys,Brand 2,2,216.63,0,433.26,Credit Card,Mobile App,South
+T0000412,11/23/2024,C008889,Male,55+,Loyal,P1118,Children Book,Books,Brand 1,2,97.35,15,165.49,Credit Card,Mobile App,North
+T0000889,11/23/2024,C005114,Male,55+,Loyal,P1119,Children Book,Books,Brand 2,2,446.82,0,893.64,Cash,In-Store,East
+T0000477,11/24/2024,C008829,Other,45-54,New,P1100,Doll,Toys,Brand 1,1,58.41,0,58.41,Debit Card,In-Store,South
+T0000155,11/27/2024,C000518,Male,35-44,New,P1076,Yoga Mat,Sports,Brand 1,1,365.86,0,365.86,Debit Card,Mobile App,West
+T0000281,11/27/2024,C008129,Male,35-44,VIP,P1062,Bedsheet,Home,Brand 2,2,139.32,0,278.64,Debit Card,In-Store,East
+T0000692,11/27/2024,C019937,Male,55+,Returning,P1106,Novel,Books,Brand 1,1,128.4,0,128.4,PayPal,Mobile App,East
+T0000988,11/27/2024,C022709,Female,25-34,VIP,P1112,Notebook,Books,Brand 1,1,84.8,10,76.32,PayPal,Mobile App,Central
+T0000088,11/28/2024,C005959,Female,25-34,Loyal,P1109,Cookbook,Books,Brand 1,1,118.26,0,118.26,Cash,In-Store,East
+T0000172,11/28/2024,C018599,Other,18-24,New,P1040,Coffee,Groceries,Brand 1,2,222.88,0,445.76,Debit Card,Online,Central
+T0000732,11/28/2024,C014993,Male,45-54,VIP,P1089,Water Bottle,Sports,Brand 2,1,444.17,0,444.17,Credit Card,Mobile App,West
+T0000781,11/28/2024,C014854,Female,18-24,New,P1101,Doll,Toys,Brand 2,1,20.56,25,15.42,PayPal,Online,East
+T0000787,11/29/2024,C018190,Male,45-54,Returning,P1060,Sunscreen,Beauty,Brand 3,1,166.04,0,166.04,Cash,In-Store,North
+T0000947,11/29/2024,C001225,Female,45-54,VIP,P1069,Cookware Set,Home,Brand 3,3,41.9,0,125.7,Cash,Online,West
+T0000426,12/1/2024,C004861,Male,25-34,Loyal,P1107,Novel,Books,Brand 2,2,208.14,20,333.02,PayPal,Mobile App,North
+T0000576,12/2/2024,C020197,Other,35-44,Returning,P1058,Sunscreen,Beauty,Brand 1,2,102.01,15,173.42,Gift Card,Mobile App,East
+T0000306,12/4/2024,C021192,Male,45-54,Loyal,P1027,Dress,Clothing,Brand 3,1,103.84,15,88.26,Credit Card,Mobile App,South
+T0000805,12/5/2024,C013796,Female,35-44,Loyal,P1074,Towel,Home,Brand 2,2,408.65,5,776.43,Debit Card,Online,Central
+T0000122,12/6/2024,C018086,Other,45-54,VIP,P1045,Cereal,Groceries,Brand 3,1,133.1,0,133.1,Cash,Online,South
+T0000718,12/7/2024,C016055,Female,25-34,New,P1040,Coffee,Groceries,Brand 1,1,222.88,0,222.88,Cash,Mobile App,East
+T0000757,12/7/2024,C011458,Other,25-34,New,P1006,Headphones,Electronics,Brand 3,2,82.22,10,148,Debit Card,Mobile App,East
+T0000005,12/10/2024,C003350,Male,45-54,New,P1028,Sneakers,Clothing,Brand 1,1,259.55,0,259.55,Cash,In-Store,Central
+T0000077,12/11/2024,C024944,Female,35-44,VIP,P1042,Coffee,Groceries,Brand 3,3,250.11,20,600.26,Cash,Online,West
+T0000279,12/11/2024,C009668,Other,25-34,Returning,P1002,Smartphone,Electronics,Brand 2,1,475.6,0,475.6,Gift Card,Mobile App,West
+T0000193,12/12/2024,C022247,Other,18-24,Loyal,P1053,Lipstick,Beauty,Brand 2,2,470.05,0,940.1,Credit Card,In-Store,North
+T0000216,12/12/2024,C021064,Male,45-54,VIP,P1070,Storage Box,Home,Brand 1,1,493.51,15,419.48,Debit Card,Online,North
+T0000760,12/12/2024,C022036,Female,45-54,New,P1107,Novel,Books,Brand 2,5,208.14,20,832.56,Debit Card,In-Store,South
+T0000931,12/12/2024,C006563,Other,45-54,New,P1026,Dress,Clothing,Brand 2,1,393.66,15,334.61,Debit Card,In-Store,West
+T0000255,12/13/2024,C018280,Female,25-34,Returning,P1048,Shampoo,Beauty,Brand 3,1,262.43,0,262.43,Gift Card,Mobile App,West
+T0000623,12/13/2024,C015036,Other,45-54,New,P1097,Board Game,Toys,Brand 1,2,263.75,0,527.5,PayPal,Online,East
+T0000768,12/14/2024,C015843,Other,55+,Loyal,P1025,Dress,Clothing,Brand 1,1,230.75,20,184.6,Cash,Online,North
+T0000084,12/15/2024,C000415,Female,45-54,New,P1083,Dumbbells,Sports,Brand 2,1,168.79,0,168.79,PayPal,In-Store,West
+T0000455,12/16/2024,C005575,Female,25-34,New,P1010,Smartwatch,Electronics,Brand 1,1,355.5,15,302.18,Gift Card,Online,East
+T0000664,12/16/2024,C013771,Female,45-54,Loyal,P1028,Sneakers,Clothing,Brand 1,2,259.55,15,441.24,PayPal,Mobile App,North
+T0000044,12/17/2024,C006672,Other,35-44,VIP,P1092,Puzzle,Toys,Brand 2,1,358.06,5,340.16,Cash,Online,North
+T0000635,12/17/2024,C011991,Male,45-54,VIP,P1079,Football,Sports,Brand 1,4,182.44,0,729.76,Debit Card,In-Store,East
+T0000292,12/18/2024,C022951,Male,55+,New,P1055,Perfume,Beauty,Brand 1,1,300.96,0,300.96,Credit Card,In-Store,North
+T0000483,12/18/2024,C005359,Female,18-24,Loyal,P1045,Cereal,Groceries,Brand 3,4,133.1,0,532.4,Credit Card,In-Store,North
+T0000632,12/21/2024,C012902,Other,25-34,VIP,P1065,Lamp,Home,Brand 2,4,144.06,0,576.24,Credit Card,Mobile App,Central
+T0000921,12/22/2024,C011541,Male,55+,Returning,P1075,Towel,Home,Brand 3,1,354.89,0,354.89,Gift Card,Mobile App,North
+T0000392,12/25/2024,C023673,Male,25-34,VIP,P1057,Perfume,Beauty,Brand 3,1,48.8,0,48.8,Gift Card,Mobile App,West
+T0000138,12/26/2024,C007177,Other,25-34,Loyal,P1103,Building Blocks,Toys,Brand 1,1,160.61,20,128.49,Debit Card,Mobile App,North
+T0000590,12/27/2024,C011307,Female,45-54,New,P1052,Lipstick,Beauty,Brand 1,2,388.69,10,699.64,Gift Card,Online,West
+T0000884,12/27/2024,C009319,Female,25-34,Returning,P1019,Jeans,Clothing,Brand 1,1,218.81,0,218.81,Gift Card,In-Store,South
+T0000432,12/28/2024,C007036,Male,35-44,Loyal,P1023,Jacket,Clothing,Brand 2,1,149.61,0,149.61,PayPal,Online,North
+T0000763,12/28/2024,C002170,Male,35-44,New,P1103,Building Blocks,Toys,Brand 1,1,160.61,10,144.55,Cash,In-Store,Central
+T0000990,12/28/2024,C019870,Other,55+,New,P1117,Textbook,Books,Brand 3,2,402.82,0,805.64,Credit Card,In-Store,Central
+T0000219,12/31/2024,C001567,Other,35-44,Loyal,P1037,Rice,Groceries,Brand 1,1,155.78,0,155.78,Credit Card,In-Store,West
+T0000447,12/31/2024,C007316,Other,55+,Returning,P1101,Doll,Toys,Brand 2,4,20.56,0,82.24,PayPal,In-Store,East
+T0000578,1/3/2025,C004401,Other,35-44,VIP,P1036,Bread,Groceries,Brand 3,1,405.16,0,405.16,PayPal,In-Store,East
+T0000796,1/3/2025,C013672,Male,35-44,Returning,P1108,Novel,Books,Brand 3,1,379,0,379,Debit Card,Online,North
+T0000213,1/4/2025,C002218,Other,55+,New,P1068,Cookware Set,Home,Brand 2,2,402.09,0,804.18,PayPal,In-Store,North
+T0000926,1/4/2025,C023093,Female,55+,New,P1064,Lamp,Home,Brand 1,1,181.59,15,154.35,Credit Card,In-Store,West
+T0000014,1/5/2025,C007187,Male,55+,VIP,P1052,Lipstick,Beauty,Brand 1,2,388.69,0,777.38,Credit Card,Online,North
+T0000115,1/5/2025,C020403,Female,45-54,New,P1067,Cookware Set,Home,Brand 1,1,74.76,5,71.02,Debit Card,In-Store,Central
+T0000197,1/5/2025,C000598,Female,35-44,Returning,P1066,Lamp,Home,Brand 3,4,273.63,15,930.34,Debit Card,In-Store,West
+T0000634,1/5/2025,C020080,Female,25-34,Loyal,P1042,Coffee,Groceries,Brand 3,2,250.11,0,500.22,Debit Card,In-Store,West
+T0000850,1/5/2025,C024941,Other,55+,Returning,P1080,Football,Sports,Brand 2,2,62.36,0,124.72,PayPal,Mobile App,South
+T0000905,1/5/2025,C019041,Female,55+,VIP,P1077,Yoga Mat,Sports,Brand 2,2,386.78,0,773.56,Cash,Mobile App,West
+T0000680,1/7/2025,C020323,Male,35-44,New,P1110,Cookbook,Books,Brand 2,2,43.11,0,86.22,Gift Card,In-Store,South
+T0000048,1/8/2025,C001308,Female,25-34,Returning,P1040,Coffee,Groceries,Brand 1,2,222.88,0,445.76,Credit Card,In-Store,Central
+T0000361,1/9/2025,C010682,Male,45-54,New,P1024,Jacket,Clothing,Brand 3,1,186.35,5,177.03,Cash,Mobile App,West
+T0000707,1/9/2025,C011414,Male,35-44,Loyal,P1055,Perfume,Beauty,Brand 1,2,300.96,0,601.92,Gift Card,Mobile App,North
+T0000679,1/10/2025,C014880,Male,55+,VIP,P1070,Storage Box,Home,Brand 1,2,493.51,10,888.32,Debit Card,Online,Central
+T0000380,1/12/2025,C014900,Female,35-44,New,P1089,Water Bottle,Sports,Brand 2,1,444.17,0,444.17,Credit Card,Mobile App,West
+T0000844,1/13/2025,C018135,Male,45-54,Returning,P1090,Water Bottle,Sports,Brand 3,2,238.75,0,477.5,Gift Card,Online,South
+T0000009,1/14/2025,C011642,Male,35-44,New,P1021,Jeans,Clothing,Brand 3,1,307.87,10,277.08,Gift Card,Mobile App,South
+T0000613,1/14/2025,C002623,Other,18-24,VIP,P1029,Sneakers,Clothing,Brand 2,2,298.25,0,596.5,PayPal,Mobile App,Central
+T0000869,1/14/2025,C020540,Female,18-24,New,P1024,Jacket,Clothing,Brand 3,2,186.35,0,372.7,PayPal,Mobile App,East
+T0000204,1/15/2025,C018172,Male,55+,New,P1112,Notebook,Books,Brand 1,1,84.8,0,84.8,Cash,Online,South
+T0000227,1/15/2025,C014548,Male,55+,Returning,P1048,Shampoo,Beauty,Brand 3,1,262.43,5,249.31,Gift Card,In-Store,West
+T0000482,1/16/2025,C016017,Other,45-54,Returning,P1031,Milk,Groceries,Brand 1,1,305.73,15,259.87,PayPal,Mobile App,Central
+T0000822,1/19/2025,C021509,Other,55+,Returning,P1017,T-Shirt,Clothing,Brand 2,1,155.6,0,155.6,Credit Card,Mobile App,South
+T0000345,1/20/2025,C009185,Female,35-44,New,P1042,Coffee,Groceries,Brand 3,1,250.11,0,250.11,Gift Card,Online,Central
+T0000324,1/21/2025,C018111,Female,18-24,New,P1049,Moisturizer,Beauty,Brand 1,2,275.62,15,468.55,Debit Card,Online,West
+T0000453,1/22/2025,C011510,Other,45-54,New,P1113,Notebook,Books,Brand 2,4,465.2,0,1860.8,PayPal,Mobile App,South
+T0000599,1/22/2025,C012631,Male,18-24,New,P1030,Sneakers,Clothing,Brand 3,1,27.99,10,25.19,Debit Card,Mobile App,Central
+T0000333,1/24/2025,C002809,Other,35-44,Returning,P1085,Running Shoes,Sports,Brand 1,1,158.94,20,127.15,Credit Card,Online,East
+T0000334,1/24/2025,C023321,Other,25-34,VIP,P1020,Jeans,Clothing,Brand 2,1,149.16,0,149.16,Cash,In-Store,North
+T0000339,1/24/2025,C005555,Male,35-44,Loyal,P1088,Water Bottle,Sports,Brand 1,4,320.59,0,1282.36,Cash,In-Store,South
+T0000716,1/24/2025,C016664,Other,18-24,Loyal,P1030,Sneakers,Clothing,Brand 3,4,27.99,5,106.36,PayPal,Mobile App,Central
+T0000901,1/25/2025,C009486,Other,45-54,New,P1024,Jacket,Clothing,Brand 3,2,186.35,0,372.7,Cash,Mobile App,East
+T0000991,1/25/2025,C009913,Female,35-44,Returning,P1080,Football,Sports,Brand 2,3,62.36,0,187.08,Gift Card,Online,Central
+T0000132,1/26/2025,C020307,Other,25-34,VIP,P1079,Football,Sports,Brand 1,2,182.44,15,310.15,Gift Card,Online,South
+T0000624,1/26/2025,C020764,Male,25-34,Loyal,P1009,Laptop,Electronics,Brand 3,2,302.55,20,484.08,PayPal,In-Store,Central
+T0000123,1/27/2025,C007654,Female,18-24,Loyal,P1074,Towel,Home,Brand 2,4,408.65,0,1634.6,PayPal,Mobile App,West
+T0000473,1/27/2025,C021457,Female,55+,VIP,P1034,Bread,Groceries,Brand 1,1,474.7,10,427.23,Credit Card,Online,East
+T0000502,1/27/2025,C000153,Male,55+,Returning,P1062,Bedsheet,Home,Brand 2,3,139.32,15,355.27,Cash,Online,East
+T0000368,1/28/2025,C018402,Other,45-54,VIP,P1105,Building Blocks,Toys,Brand 3,1,454.25,0,454.25,PayPal,In-Store,West
+T0000833,1/28/2025,C021651,Male,35-44,VIP,P1006,Headphones,Electronics,Brand 3,2,82.22,20,131.55,Credit Card,Mobile App,East
+T0000520,1/29/2025,C022607,Female,45-54,Returning,P1035,Bread,Groceries,Brand 2,3,482.99,0,1448.97,Credit Card,Online,North
+T0000688,1/29/2025,C006209,Male,55+,Returning,P1069,Cookware Set,Home,Brand 3,2,41.9,5,79.61,Gift Card,Mobile App,South
+T0000927,1/29/2025,C009294,Female,55+,Loyal,P1015,Bluetooth Speaker,Electronics,Brand 3,1,95,0,95,PayPal,Online,Central
+T0000896,1/30/2025,C012217,Male,35-44,Loyal,P1048,Shampoo,Beauty,Brand 3,1,262.43,15,223.07,Cash,In-Store,West
+T0000214,1/31/2025,C012233,Female,18-24,Loyal,P1082,Dumbbells,Sports,Brand 1,1,313.53,5,297.85,Credit Card,In-Store,South
+T0000720,1/31/2025,C000966,Other,35-44,Returning,P1113,Notebook,Books,Brand 2,2,465.2,20,744.32,Debit Card,In-Store,West
+T0000858,1/31/2025,C012239,Male,45-54,Returning,P1023,Jacket,Clothing,Brand 2,2,149.61,5,284.26,Cash,In-Store,South
+T0000338,2/1/2025,C002776,Other,55+,Returning,P1053,Lipstick,Beauty,Brand 2,1,470.05,15,399.54,Gift Card,Mobile App,South
+T0000074,2/2/2025,C011015,Other,45-54,Returning,P1004,Headphones,Electronics,Brand 1,2,301.34,10,542.41,PayPal,Online,Central
+T0000790,2/3/2025,C020172,Other,45-54,Returning,P1038,Rice,Groceries,Brand 2,4,53.35,0,213.4,Debit Card,Mobile App,East
+T0000777,2/5/2025,C005865,Other,55+,VIP,P1055,Perfume,Beauty,Brand 1,3,300.96,15,767.45,Gift Card,In-Store,East
+T0000295,2/6/2025,C017330,Male,25-34,New,P1069,Cookware Set,Home,Brand 3,1,41.9,5,39.8,Credit Card,In-Store,West
+T0000422,2/6/2025,C022962,Other,35-44,Loyal,P1119,Children Book,Books,Brand 2,1,446.82,0,446.82,PayPal,In-Store,South
+T0000738,2/6/2025,C013552,Female,45-54,New,P1018,T-Shirt,Clothing,Brand 3,2,264.75,0,529.5,Debit Card,In-Store,Central
+T0000972,2/6/2025,C008374,Female,18-24,Returning,P1117,Textbook,Books,Brand 3,2,402.82,0,805.64,Cash,Online,South
+T0000865,2/7/2025,C015705,Other,18-24,VIP,P1068,Cookware Set,Home,Brand 2,3,402.09,5,1145.96,PayPal,Online,North
+T0000705,2/8/2025,C021373,Other,25-34,Returning,P1063,Bedsheet,Home,Brand 3,2,415.23,0,830.46,Debit Card,Online,East
+T0000759,2/9/2025,C023738,Other,55+,New,P1044,Cereal,Groceries,Brand 2,1,455.11,0,455.11,Debit Card,Online,East
+T0000276,2/10/2025,C016233,Male,35-44,New,P1108,Novel,Books,Brand 3,1,379,20,303.2,Credit Card,In-Store,Central
+T0000470,2/10/2025,C018090,Female,35-44,VIP,P1072,Storage Box,Home,Brand 3,1,103.36,5,98.19,Credit Card,Mobile App,Central
+T0000704,2/12/2025,C016444,Female,25-34,Returning,P1011,Smartwatch,Electronics,Brand 2,1,15.19,0,15.19,PayPal,Mobile App,South
+T0000220,2/13/2025,C024357,Female,45-54,Loyal,P1114,Notebook,Books,Brand 3,2,405.02,5,769.54,Debit Card,In-Store,West
+T0000032,2/14/2025,C001922,Male,45-54,New,P1111,Cookbook,Books,Brand 3,4,148.43,15,504.66,PayPal,In-Store,West
+T0000349,2/14/2025,C017511,Other,45-54,New,P1075,Towel,Home,Brand 3,1,354.89,0,354.89,Cash,Mobile App,Central
+T0000611,2/14/2025,C011090,Other,55+,New,P1066,Lamp,Home,Brand 3,1,273.63,0,273.63,Debit Card,In-Store,North
+T0000636,2/14/2025,C009163,Female,25-34,Returning,P1047,Shampoo,Beauty,Brand 2,1,159.3,0,159.3,Gift Card,Mobile App,South
+T0000982,2/14/2025,C020251,Female,55+,Loyal,P1007,Laptop,Electronics,Brand 1,1,33.75,20,27,Debit Card,Online,East
+T0000620,2/17/2025,C018839,Male,35-44,Returning,P1120,Children Book,Books,Brand 3,1,271.97,0,271.97,PayPal,Mobile App,North
+T0000960,2/19/2025,C007815,Male,25-34,Returning,P1031,Milk,Groceries,Brand 1,1,305.73,0,305.73,Credit Card,Online,East
+T0000049,2/20/2025,C020338,Other,25-34,Returning,P1114,Notebook,Books,Brand 3,1,405.02,10,364.52,Debit Card,Online,West
+T0000090,2/20/2025,C016010,Other,25-34,VIP,P1031,Milk,Groceries,Brand 1,2,305.73,0,611.46,PayPal,In-Store,North
+T0000478,2/20/2025,C024280,Female,55+,Loyal,P1117,Textbook,Books,Brand 3,5,402.82,0,2014.1,Credit Card,Mobile App,South
+T0000112,2/22/2025,C010922,Female,18-24,Returning,P1045,Cereal,Groceries,Brand 3,1,133.1,0,133.1,Cash,In-Store,West
+T0000293,2/22/2025,C005898,Male,45-54,Loyal,P1037,Rice,Groceries,Brand 1,1,155.78,30,109.05,PayPal,In-Store,West
+T0000535,2/23/2025,C003505,Female,55+,Returning,P1106,Novel,Books,Brand 1,1,128.4,10,115.56,Debit Card,Online,West
+T0000235,2/24/2025,C013417,Other,18-24,Returning,P1068,Cookware Set,Home,Brand 2,1,402.09,0,402.09,Cash,Mobile App,North
+T0000377,2/25/2025,C001943,Female,25-34,Returning,P1018,T-Shirt,Clothing,Brand 3,2,264.75,0,529.5,Debit Card,Online,East
+T0000523,2/25/2025,C014441,Male,18-24,Loyal,P1015,Bluetooth Speaker,Electronics,Brand 3,1,95,15,80.75,Cash,Online,Central
+T0000945,2/25/2025,C011511,Male,25-34,Returning,P1046,Shampoo,Beauty,Brand 1,1,332.95,0,332.95,Debit Card,Mobile App,East
+T0000263,2/26/2025,C022627,Male,45-54,VIP,P1020,Jeans,Clothing,Brand 2,1,149.16,20,119.33,Credit Card,Mobile App,South
+T0000305,2/26/2025,C013649,Other,55+,Returning,P1072,Storage Box,Home,Brand 3,1,103.36,0,103.36,PayPal,Online,East
+T0000974,2/26/2025,C010903,Other,45-54,New,P1061,Bedsheet,Home,Brand 1,1,197.4,0,197.4,Debit Card,Mobile App,East
+T0000784,2/27/2025,C007818,Other,25-34,Returning,P1076,Yoga Mat,Sports,Brand 1,4,365.86,0,1463.44,PayPal,In-Store,North
+T0000379,2/28/2025,C012294,Female,18-24,New,P1081,Football,Sports,Brand 3,2,432.24,5,821.26,PayPal,Mobile App,East
+T0000798,3/1/2025,C014944,Other,55+,VIP,P1083,Dumbbells,Sports,Brand 2,1,168.79,30,118.15,Gift Card,Online,West
+T0000749,3/2/2025,C005841,Male,35-44,Returning,P1014,Bluetooth Speaker,Electronics,Brand 2,5,110.11,5,523.02,PayPal,Mobile App,Central
+T0000849,3/4/2025,C000150,Other,25-34,Returning,P1045,Cereal,Groceries,Brand 3,1,133.1,10,119.79,Credit Card,Mobile App,North
+T0000600,3/5/2025,C004901,Other,18-24,Returning,P1088,Water Bottle,Sports,Brand 1,1,320.59,0,320.59,PayPal,Mobile App,Central
+T0000908,3/5/2025,C020849,Female,18-24,Loyal,P1047,Shampoo,Beauty,Brand 2,2,159.3,15,270.81,Cash,Mobile App,North
+T0000033,3/9/2025,C022826,Other,55+,VIP,P1037,Rice,Groceries,Brand 1,1,155.78,5,147.99,Debit Card,Online,East
+T0000045,3/9/2025,C009067,Male,18-24,Loyal,P1082,Dumbbells,Sports,Brand 1,1,313.53,0,313.53,Debit Card,Mobile App,East
+T0000875,3/9/2025,C009082,Male,18-24,Loyal,P1088,Water Bottle,Sports,Brand 1,1,320.59,10,288.53,Cash,In-Store,West
+T0000799,3/10/2025,C018090,Female,45-54,Loyal,P1066,Lamp,Home,Brand 3,1,273.63,5,259.95,Debit Card,Online,West
+T0000898,3/10/2025,C023875,Female,25-34,New,P1104,Building Blocks,Toys,Brand 2,1,256.74,10,231.07,Debit Card,Online,East
+T0000917,3/11/2025,C022637,Male,18-24,New,P1011,Smartwatch,Electronics,Brand 2,1,15.19,10,13.67,PayPal,In-Store,North
+T0000223,3/12/2025,C005461,Other,45-54,Loyal,P1078,Yoga Mat,Sports,Brand 3,1,41.65,0,41.65,PayPal,Online,East
+T0000358,3/12/2025,C015141,Male,45-54,Returning,P1072,Storage Box,Home,Brand 3,1,103.36,0,103.36,Debit Card,Mobile App,West
+T0000722,3/12/2025,C010237,Other,35-44,VIP,P1020,Jeans,Clothing,Brand 2,2,149.16,0,298.32,Gift Card,Online,South
+T0000163,3/13/2025,C010241,Other,35-44,Loyal,P1041,Coffee,Groceries,Brand 2,2,65.41,25,98.11,Debit Card,Mobile App,West
+T0000280,3/13/2025,C016885,Female,18-24,VIP,P1106,Novel,Books,Brand 1,4,128.4,15,436.56,Credit Card,Online,South
+T0000394,3/15/2025,C010306,Male,25-34,Loyal,P1045,Cereal,Groceries,Brand 3,2,133.1,0,266.2,Credit Card,Online,Central
+T0000407,3/15/2025,C008913,Other,18-24,Loyal,P1104,Building Blocks,Toys,Brand 2,5,256.74,0,1283.7,Gift Card,Mobile App,North
+T0000657,3/16/2025,C009599,Other,25-34,New,P1002,Smartphone,Electronics,Brand 2,1,475.6,5,451.82,Gift Card,In-Store,South
+T0000706,3/16/2025,C010598,Other,55+,New,P1100,Doll,Toys,Brand 1,1,58.41,5,55.49,Credit Card,Mobile App,West
+T0000336,3/17/2025,C014708,Other,55+,VIP,P1024,Jacket,Clothing,Brand 3,1,186.35,0,186.35,Credit Card,Online,North
+T0000109,3/18/2025,C024070,Female,55+,Loyal,P1006,Headphones,Electronics,Brand 3,3,82.22,10,221.99,Credit Card,Online,South
+T0000525,3/19/2025,C021684,Other,25-34,VIP,P1013,Bluetooth Speaker,Electronics,Brand 1,1,417.06,0,417.06,Cash,Mobile App,West
+T0000325,3/20/2025,C021133,Female,55+,New,P1109,Cookbook,Books,Brand 1,1,118.26,15,100.52,Gift Card,Online,South
+T0000224,3/21/2025,C008997,Other,18-24,New,P1079,Football,Sports,Brand 1,1,182.44,0,182.44,PayPal,In-Store,Central
+T0000086,3/22/2025,C023955,Other,35-44,Loyal,P1060,Sunscreen,Beauty,Brand 3,1,166.04,0,166.04,Debit Card,Online,East
+T0000830,3/22/2025,C013236,Other,18-24,Returning,P1062,Bedsheet,Home,Brand 2,1,139.32,15,118.42,Credit Card,In-Store,West
+T0000181,3/23/2025,C003469,Male,45-54,VIP,P1012,Smartwatch,Electronics,Brand 3,2,485.11,5,921.71,Gift Card,Online,West
+T0000663,3/24/2025,C023826,Male,25-34,New,P1092,Puzzle,Toys,Brand 2,3,358.06,0,1074.18,Debit Card,Online,West
+T0000973,3/25/2025,C020689,Female,45-54,New,P1118,Children Book,Books,Brand 1,1,97.35,10,87.61,Cash,Online,West
+T0000046,3/28/2025,C018078,Other,45-54,New,P1021,Jeans,Clothing,Brand 3,1,307.87,5,292.48,Credit Card,Online,South
+T0000111,3/28/2025,C009115,Male,55+,VIP,P1084,Dumbbells,Sports,Brand 3,1,36.46,0,36.46,PayPal,Online,West
+T0000827,3/28/2025,C023443,Female,18-24,New,P1117,Textbook,Books,Brand 3,3,402.82,25,906.35,Credit Card,Online,Central
+T0000667,3/29/2025,C008100,Other,18-24,Returning,P1050,Moisturizer,Beauty,Brand 2,3,96.5,0,289.5,PayPal,Mobile App,North
+T0000726,3/29/2025,C024433,Other,35-44,Returning,P1039,Rice,Groceries,Brand 3,1,343.7,0,343.7,Debit Card,Online,South
+T0000743,4/1/2025,C009463,Other,25-34,New,P1040,Coffee,Groceries,Brand 1,1,222.88,0,222.88,Debit Card,Online,North
+T0000820,4/1/2025,C011519,Male,35-44,Loyal,P1088,Water Bottle,Sports,Brand 1,1,320.59,0,320.59,Debit Card,Online,North
+T0000810,4/2/2025,C012117,Male,35-44,Returning,P1085,Running Shoes,Sports,Brand 1,1,158.94,0,158.94,PayPal,Online,Central
+T0000205,4/5/2025,C016822,Male,45-54,New,P1035,Bread,Groceries,Brand 2,1,482.99,15,410.54,Debit Card,In-Store,East
+T0000087,4/6/2025,C007991,Female,55+,VIP,P1113,Notebook,Books,Brand 2,2,465.2,0,930.4,Cash,Online,West
+T0000332,4/6/2025,C016077,Male,35-44,VIP,P1101,Doll,Toys,Brand 2,1,20.56,0,20.56,PayPal,Online,Central
+T0000367,4/6/2025,C020297,Male,35-44,New,P1041,Coffee,Groceries,Brand 2,1,65.41,20,52.33,PayPal,Online,South
+T0000537,4/6/2025,C014988,Other,55+,Returning,P1016,T-Shirt,Clothing,Brand 1,1,95.79,5,91,PayPal,Online,Central
+T0000647,4/6/2025,C013566,Male,25-34,New,P1067,Cookware Set,Home,Brand 1,1,74.76,0,74.76,Debit Card,Mobile App,South
+T0000157,4/7/2025,C016510,Male,55+,New,P1014,Bluetooth Speaker,Electronics,Brand 2,2,110.11,0,220.22,Gift Card,In-Store,West
+T0000162,4/7/2025,C007488,Female,35-44,VIP,P1056,Perfume,Beauty,Brand 2,1,461.33,0,461.33,PayPal,In-Store,North
+T0000454,4/7/2025,C002416,Male,35-44,New,P1021,Jeans,Clothing,Brand 3,3,307.87,15,785.07,Cash,In-Store,North
+T0000766,4/7/2025,C009917,Male,55+,Loyal,P1048,Shampoo,Beauty,Brand 3,1,262.43,0,262.43,Debit Card,Online,East
+T0000547,4/8/2025,C003359,Other,55+,Returning,P1046,Shampoo,Beauty,Brand 1,1,332.95,10,299.65,Gift Card,In-Store,South
+T0000693,4/8/2025,C014664,Female,18-24,New,P1047,Shampoo,Beauty,Brand 2,1,159.3,0,159.3,Cash,Mobile App,North
+T0000105,4/9/2025,C002333,Other,25-34,Loyal,P1090,Water Bottle,Sports,Brand 3,1,238.75,0,238.75,Gift Card,Mobile App,South
+T0000404,4/9/2025,C020064,Other,18-24,Loyal,P1015,Bluetooth Speaker,Electronics,Brand 3,1,95,0,95,Debit Card,Online,North
+T0000408,4/11/2025,C016738,Female,18-24,VIP,P1064,Lamp,Home,Brand 1,1,181.59,0,181.59,Gift Card,Online,East
+T0000661,4/11/2025,C020242,Female,35-44,VIP,P1082,Dumbbells,Sports,Brand 1,4,313.53,0,1254.12,Debit Card,In-Store,North
+T0000217,4/13/2025,C001212,Female,25-34,New,P1092,Puzzle,Toys,Brand 2,1,358.06,0,358.06,Debit Card,Online,East
+T0000363,4/13/2025,C020230,Male,35-44,New,P1046,Shampoo,Beauty,Brand 1,1,332.95,0,332.95,Debit Card,In-Store,North
+T0000536,4/13/2025,C006245,Other,35-44,New,P1028,Sneakers,Clothing,Brand 1,1,259.55,0,259.55,PayPal,Online,Central
+T0000563,4/15/2025,C023491,Female,18-24,New,P1004,Headphones,Electronics,Brand 1,2,301.34,5,572.55,Credit Card,Online,South
+T0000939,4/15/2025,C001180,Male,25-34,Loyal,P1057,Perfume,Beauty,Brand 3,4,48.8,0,195.2,Debit Card,In-Store,West
+T0000761,4/16/2025,C017596,Female,45-54,VIP,P1081,Football,Sports,Brand 3,1,432.24,15,367.4,Credit Card,Mobile App,East
+T0000076,4/17/2025,C005955,Male,35-44,VIP,P1018,T-Shirt,Clothing,Brand 3,2,264.75,15,450.07,Cash,Online,West
+T0000782,4/17/2025,C005597,Female,35-44,Returning,P1062,Bedsheet,Home,Brand 2,2,139.32,15,236.84,Gift Card,Online,West
+T0000030,4/18/2025,C008186,Male,45-54,New,P1036,Bread,Groceries,Brand 3,4,405.16,0,1620.64,Credit Card,Mobile App,Central
+T0000189,4/18/2025,C019017,Other,18-24,VIP,P1050,Moisturizer,Beauty,Brand 2,1,96.5,0,96.5,Gift Card,Mobile App,South
+T0000146,4/20/2025,C022973,Female,45-54,New,P1082,Dumbbells,Sports,Brand 1,1,313.53,25,235.15,Debit Card,Online,North
+T0000860,4/21/2025,C015027,Female,25-34,Loyal,P1110,Cookbook,Books,Brand 2,4,43.11,0,172.44,Debit Card,In-Store,Central
+T0000071,4/22/2025,C013625,Male,25-34,VIP,P1070,Storage Box,Home,Brand 1,2,493.51,30,690.91,PayPal,Mobile App,North
+T0000236,4/22/2025,C022286,Other,35-44,Returning,P1058,Sunscreen,Beauty,Brand 1,1,102.01,5,96.91,Gift Card,Mobile App,Central
+T0000202,4/25/2025,C006358,Female,55+,VIP,P1040,Coffee,Groceries,Brand 1,4,222.88,15,757.79,PayPal,In-Store,West
+T0000587,4/25/2025,C014898,Male,18-24,Loyal,P1050,Moisturizer,Beauty,Brand 2,1,96.5,5,91.67,Credit Card,Mobile App,Central
+T0000286,4/27/2025,C024817,Other,25-34,Returning,P1117,Textbook,Books,Brand 3,1,402.82,0,402.82,Gift Card,Online,Central
+T0000399,4/27/2025,C002392,Male,55+,New,P1098,Board Game,Toys,Brand 2,1,216.63,25,162.47,Credit Card,In-Store,South
+T0000208,4/28/2025,C022809,Male,45-54,VIP,P1037,Rice,Groceries,Brand 1,2,155.78,25,233.67,Gift Card,Online,North
+T0000061,4/29/2025,C024116,Male,18-24,Loyal,P1066,Lamp,Home,Brand 3,4,273.63,25,820.89,Gift Card,Mobile App,Central
+T0000260,4/30/2025,C008701,Other,55+,Returning,P1077,Yoga Mat,Sports,Brand 2,1,386.78,0,386.78,Credit Card,Mobile App,West
+T0000475,5/1/2025,C008801,Female,18-24,Loyal,P1007,Laptop,Electronics,Brand 1,1,33.75,0,33.75,Cash,In-Store,East
+T0000557,5/1/2025,C018394,Other,18-24,New,P1068,Cookware Set,Home,Brand 2,1,402.09,0,402.09,Cash,In-Store,South
+T0000814,5/2/2025,C024450,Other,25-34,VIP,P1039,Rice,Groceries,Brand 3,1,343.7,0,343.7,PayPal,In-Store,East
+T0000035,5/3/2025,C016478,Other,25-34,New,P1075,Towel,Home,Brand 3,1,354.89,0,354.89,Gift Card,Online,South
+T0000098,5/5/2025,C014434,Female,25-34,New,P1061,Bedsheet,Home,Brand 1,2,197.4,5,375.06,Cash,In-Store,North
+T0000270,5/5/2025,C007012,Male,55+,Loyal,P1096,Toy Car,Toys,Brand 3,2,249.43,0,498.86,Gift Card,Mobile App,East
+T0000891,5/5/2025,C001314,Male,55+,New,P1094,Toy Car,Toys,Brand 1,1,282.83,0,282.83,Cash,Online,West
+T0000119,5/9/2025,C015474,Male,45-54,Returning,P1054,Lipstick,Beauty,Brand 3,1,447.94,0,447.94,PayPal,Online,Central
+T0000609,5/10/2025,C008316,Female,55+,Loyal,P1072,Storage Box,Home,Brand 3,1,103.36,5,98.19,PayPal,Mobile App,South
+T0000933,5/11/2025,C016759,Female,25-34,VIP,P1052,Lipstick,Beauty,Brand 1,1,388.69,0,388.69,Credit Card,Online,East
+T0000961,5/12/2025,C018345,Female,45-54,New,P1060,Sunscreen,Beauty,Brand 3,3,166.04,0,498.12,Debit Card,Online,East
+T0000315,5/15/2025,C023710,Other,45-54,VIP,P1033,Milk,Groceries,Brand 3,3,37.2,5,106.02,Debit Card,Mobile App,East
+T0000462,5/15/2025,C021661,Female,18-24,VIP,P1061,Bedsheet,Home,Brand 1,1,197.4,5,187.53,Debit Card,In-Store,West
+T0000949,5/15/2025,C003279,Other,25-34,Loyal,P1104,Building Blocks,Toys,Brand 2,1,256.74,20,205.39,PayPal,Mobile App,East
+T0000149,5/16/2025,C020174,Female,35-44,New,P1107,Novel,Books,Brand 2,1,208.14,0,208.14,Cash,Online,West
+T0000506,5/16/2025,C011772,Male,25-34,VIP,P1044,Cereal,Groceries,Brand 2,2,455.11,0,910.22,Credit Card,Online,South
+T0000677,5/16/2025,C006219,Other,25-34,Loyal,P1090,Water Bottle,Sports,Brand 3,3,238.75,0,716.25,Cash,Mobile App,West
+T0000684,5/16/2025,C017231,Other,55+,Loyal,P1085,Running Shoes,Sports,Brand 1,1,158.94,5,150.99,Credit Card,In-Store,South
+T0000230,5/17/2025,C006560,Male,25-34,New,P1089,Water Bottle,Sports,Brand 2,1,444.17,0,444.17,PayPal,Online,West
+T0000968,5/17/2025,C017481,Female,18-24,Loyal,P1008,Laptop,Electronics,Brand 2,2,433.76,5,824.14,Gift Card,In-Store,West
+T0000476,5/18/2025,C022813,Other,18-24,Returning,P1108,Novel,Books,Brand 3,1,379,0,379,Debit Card,In-Store,West
+T0000929,5/18/2025,C022024,Male,45-54,VIP,P1087,Running Shoes,Sports,Brand 3,1,366.16,0,366.16,Gift Card,Mobile App,North
+T0000147,5/19/2025,C003806,Male,25-34,Returning,P1039,Rice,Groceries,Brand 3,4,343.7,0,1374.8,PayPal,In-Store,East
+T0000630,5/19/2025,C018826,Female,45-54,Returning,P1041,Coffee,Groceries,Brand 2,1,65.41,0,65.41,Gift Card,In-Store,West
+T0000745,5/20/2025,C007795,Male,55+,VIP,P1113,Notebook,Books,Brand 2,1,465.2,0,465.2,PayPal,In-Store,West
+T0000998,5/21/2025,C001337,Female,35-44,VIP,P1115,Textbook,Books,Brand 1,2,318.53,0,637.06,PayPal,In-Store,North
+T0000514,5/23/2025,C006806,Other,45-54,Loyal,P1071,Storage Box,Home,Brand 2,2,387.26,5,735.79,Debit Card,Online,North
+T0000841,5/24/2025,C019497,Other,25-34,New,P1015,Bluetooth Speaker,Electronics,Brand 3,4,95,10,342,Debit Card,In-Store,East
+T0000934,5/24/2025,C007564,Other,25-34,New,P1063,Bedsheet,Home,Brand 3,2,415.23,0,830.46,Credit Card,Mobile App,North
+T0000249,5/25/2025,C010111,Female,18-24,New,P1060,Sunscreen,Beauty,Brand 3,1,166.04,0,166.04,PayPal,Mobile App,West
+T0000673,5/26/2025,C002996,Other,55+,Loyal,P1021,Jeans,Clothing,Brand 3,5,307.87,0,1539.35,Credit Card,Online,East
+T0000994,5/26/2025,C009208,Other,35-44,VIP,P1017,T-Shirt,Clothing,Brand 2,3,155.6,20,373.44,Cash,In-Store,Central
+T0000240,5/29/2025,C021004,Male,55+,Returning,P1012,Smartwatch,Electronics,Brand 3,1,485.11,0,485.11,Debit Card,Mobile App,Central
+T0000284,5/29/2025,C023055,Female,18-24,Loyal,P1088,Water Bottle,Sports,Brand 1,1,320.59,0,320.59,Cash,Mobile App,South
+T0000567,5/29/2025,C003478,Female,35-44,New,P1046,Shampoo,Beauty,Brand 1,1,332.95,0,332.95,Cash,In-Store,West
+T0000729,5/29/2025,C019816,Female,35-44,Returning,P1018,T-Shirt,Clothing,Brand 3,1,264.75,5,251.51,PayPal,In-Store,West
+T0000003,6/1/2025,C019727,Male,55+,Returning,P1030,Sneakers,Clothing,Brand 3,1,27.99,0,27.99,Gift Card,In-Store,South
+T0000161,6/1/2025,C019839,Female,18-24,New,P1059,Sunscreen,Beauty,Brand 2,1,27.39,30,19.17,Gift Card,Mobile App,South
+T0000808,6/1/2025,C002519,Female,35-44,Returning,P1017,T-Shirt,Clothing,Brand 2,1,155.6,20,124.48,Gift Card,In-Store,East
+T0000560,6/4/2025,C014601,Female,18-24,Loyal,P1103,Building Blocks,Toys,Brand 1,4,160.61,0,642.44,Debit Card,In-Store,Central
+T0001000,6/4/2025,C008939,Other,55+,Returning,P1096,Toy Car,Toys,Brand 3,1,249.43,20,199.54,Gift Card,Online,Central
+T0000396,6/5/2025,C006182,Other,45-54,Loyal,P1078,Yoga Mat,Sports,Brand 3,1,41.65,0,41.65,Credit Card,Online,West
+T0000643,6/6/2025,C015975,Other,45-54,New,P1087,Running Shoes,Sports,Brand 3,2,366.16,0,732.32,PayPal,Mobile App,East
+T0000792,6/6/2025,C013245,Male,35-44,New,P1079,Football,Sports,Brand 1,1,182.44,0,182.44,Cash,Mobile App,North
+T0000402,6/7/2025,C006659,Male,55+,Loyal,P1011,Smartwatch,Electronics,Brand 2,3,15.19,10,41.01,PayPal,Mobile App,North
+T0000741,6/7/2025,C020057,Male,45-54,VIP,P1094,Toy Car,Toys,Brand 1,1,282.83,0,282.83,Credit Card,Online,East
+T0000895,6/7/2025,C001837,Other,35-44,VIP,P1078,Yoga Mat,Sports,Brand 3,1,41.65,0,41.65,Debit Card,Mobile App,West
+T0000769,6/12/2025,C022175,Male,25-34,New,P1106,Novel,Books,Brand 1,1,128.4,0,128.4,PayPal,In-Store,Central
+T0000023,6/13/2025,C014795,Male,25-34,Returning,P1057,Perfume,Beauty,Brand 3,1,48.8,15,41.48,Credit Card,In-Store,North
+T0000221,6/15/2025,C008740,Male,45-54,New,P1048,Shampoo,Beauty,Brand 3,2,262.43,0,524.86,PayPal,Mobile App,South
+T0000056,6/16/2025,C017644,Other,25-34,Loyal,P1001,Smartphone,Electronics,Brand 1,2,190.4,0,380.8,PayPal,Online,East
+T0000068,6/17/2025,C015880,Other,25-34,Loyal,P1099,Board Game,Toys,Brand 3,1,17.58,0,17.58,PayPal,Online,East
+T0000301,6/17/2025,C007244,Female,35-44,Loyal,P1085,Running Shoes,Sports,Brand 1,4,158.94,0,635.76,Credit Card,Mobile App,Central
+T0000771,6/17/2025,C021594,Other,35-44,New,P1014,Bluetooth Speaker,Electronics,Brand 2,2,110.11,0,220.22,Gift Card,In-Store,South
+T0000534,6/18/2025,C012252,Other,18-24,New,P1071,Storage Box,Home,Brand 2,2,387.26,0,774.52,Debit Card,In-Store,South
+T0000101,6/19/2025,C012465,Female,45-54,Loyal,P1029,Sneakers,Clothing,Brand 2,1,298.25,10,268.43,Gift Card,In-Store,East
+T0000471,6/19/2025,C013750,Male,45-54,Returning,P1076,Yoga Mat,Sports,Brand 1,3,365.86,30,768.31,Debit Card,Mobile App,Central
+T0000192,6/20/2025,C017130,Other,25-34,Loyal,P1057,Perfume,Beauty,Brand 3,1,48.8,15,41.48,Cash,In-Store,West
+T0000261,6/20/2025,C020612,Other,55+,VIP,P1022,Jacket,Clothing,Brand 1,1,74.05,0,74.05,Debit Card,Mobile App,South
+T0000095,6/21/2025,C019556,Female,18-24,Returning,P1098,Board Game,Toys,Brand 2,2,216.63,0,433.26,Cash,Online,East
+T0000303,6/21/2025,C010445,Other,45-54,VIP,P1101,Doll,Toys,Brand 2,1,20.56,15,17.48,Debit Card,In-Store,West
+T0000899,6/21/2025,C010991,Male,55+,VIP,P1061,Bedsheet,Home,Brand 1,3,197.4,0,592.2,Credit Card,Online,West
+T0000754,6/22/2025,C018847,Other,35-44,Returning,P1034,Bread,Groceries,Brand 1,1,474.7,0,474.7,Gift Card,Mobile App,West
+T0000913,6/22/2025,C017436,Other,55+,New,P1089,Water Bottle,Sports,Brand 2,2,444.17,0,888.34,PayPal,In-Store,North
+T0000199,6/23/2025,C001237,Other,35-44,Returning,P1107,Novel,Books,Brand 2,1,208.14,15,176.92,Gift Card,In-Store,South
+T0000752,6/23/2025,C013559,Other,25-34,Returning,P1043,Cereal,Groceries,Brand 1,1,22.02,25,16.52,Gift Card,Online,North
+T0000876,6/23/2025,C004021,Female,55+,Loyal,P1065,Lamp,Home,Brand 2,2,144.06,0,288.12,PayPal,Mobile App,East
+T0000893,6/23/2025,C007280,Female,25-34,New,P1075,Towel,Home,Brand 3,2,354.89,0,709.78,Credit Card,Mobile App,West
+T0000022,6/24/2025,C019877,Female,25-34,Returning,P1034,Bread,Groceries,Brand 1,2,474.7,0,949.4,Cash,In-Store,East
+T0000203,6/24/2025,C013719,Male,25-34,Returning,P1065,Lamp,Home,Brand 2,2,144.06,0,288.12,Cash,Online,West
+T0000287,6/24/2025,C023062,Female,18-24,New,P1058,Sunscreen,Beauty,Brand 1,1,102.01,0,102.01,Credit Card,Mobile App,Central
+T0000016,6/25/2025,C008239,Other,18-24,New,P1060,Sunscreen,Beauty,Brand 3,3,166.04,0,498.12,Gift Card,In-Store,East
+T0000019,6/27/2025,C000019,Other,35-44,VIP,P1070,Storage Box,Home,Brand 1,2,493.51,10,888.32,Credit Card,Online,East
+T0000092,6/27/2025,C011265,Female,55+,Loyal,P1071,Storage Box,Home,Brand 2,1,387.26,5,367.9,Cash,Mobile App,West
+T0000171,6/27/2025,C007050,Female,45-54,VIP,P1012,Smartwatch,Electronics,Brand 3,1,485.11,5,460.85,Cash,Online,East
+T0000503,6/27/2025,C006245,Male,18-24,Returning,P1097,Board Game,Toys,Brand 1,2,263.75,0,527.5,Debit Card,Mobile App,East
+T0000815,6/27/2025,C014246,Male,35-44,VIP,P1019,Jeans,Clothing,Brand 1,2,218.81,0,437.62,PayPal,Mobile App,East
+T0000601,6/28/2025,C016494,Male,18-24,VIP,P1005,Headphones,Electronics,Brand 2,1,82.23,0,82.23,Debit Card,Mobile App,Central
+T0000265,6/29/2025,C011218,Other,35-44,Loyal,P1117,Textbook,Books,Brand 3,2,402.82,0,805.64,Gift Card,In-Store,South
+T0000836,6/30/2025,C014723,Male,18-24,Loyal,P1064,Lamp,Home,Brand 1,1,181.59,10,163.43,Credit Card,In-Store,North
+T0000888,6/30/2025,C009882,Male,18-24,VIP,P1021,Jeans,Clothing,Brand 3,1,307.87,10,277.08,PayPal,Online,West
+T0000275,7/1/2025,C024206,Other,18-24,Returning,P1030,Sneakers,Clothing,Brand 3,1,27.99,0,27.99,PayPal,Online,North
+T0000493,7/1/2025,C020917,Female,35-44,Loyal,P1088,Water Bottle,Sports,Brand 1,5,320.59,0,1602.95,Debit Card,Mobile App,Central
+T0000832,7/1/2025,C011144,Male,45-54,Loyal,P1047,Shampoo,Beauty,Brand 2,1,159.3,5,151.34,Debit Card,Online,Central
+T0000211,7/2/2025,C000539,Other,55+,Returning,P1077,Yoga Mat,Sports,Brand 2,4,386.78,5,1469.76,Debit Card,In-Store,West
+T0000951,7/2/2025,C007015,Female,35-44,New,P1108,Novel,Books,Brand 3,4,379,0,1516,Cash,Mobile App,West
+T0000144,7/3/2025,C004050,Female,35-44,Loyal,P1034,Bread,Groceries,Brand 1,1,474.7,0,474.7,Gift Card,In-Store,East
+T0000304,7/4/2025,C015517,Male,25-34,Loyal,P1024,Jacket,Clothing,Brand 3,1,186.35,10,167.72,Debit Card,In-Store,North
+T0000370,7/4/2025,C009460,Male,45-54,VIP,P1029,Sneakers,Clothing,Brand 2,1,298.25,0,298.25,Gift Card,Mobile App,North
+T0000026,7/6/2025,C004336,Other,55+,VIP,P1028,Sneakers,Clothing,Brand 1,2,259.55,0,519.1,Debit Card,In-Store,West
+T0000078,7/6/2025,C001707,Female,25-34,New,P1003,Smartphone,Electronics,Brand 3,1,367.34,0,367.34,Credit Card,Online,South
+T0000141,7/6/2025,C011989,Other,55+,Loyal,P1101,Doll,Toys,Brand 2,1,20.56,20,16.45,Debit Card,In-Store,West
+T0000582,7/6/2025,C015470,Other,25-34,Loyal,P1070,Storage Box,Home,Brand 1,1,493.51,0,493.51,PayPal,Online,Central
+T0000701,7/6/2025,C018512,Male,35-44,Returning,P1041,Coffee,Groceries,Brand 2,1,65.41,20,52.33,Debit Card,Online,West
+T0000458,7/7/2025,C008693,Other,35-44,Loyal,P1093,Puzzle,Toys,Brand 3,1,381.59,5,362.51,Debit Card,Online,North
+T0000128,7/8/2025,C001177,Other,18-24,Returning,P1112,Notebook,Books,Brand 1,1,84.8,0,84.8,Cash,Online,North
+T0000417,7/8/2025,C011352,Other,18-24,Loyal,P1030,Sneakers,Clothing,Brand 3,1,27.99,20,22.39,Credit Card,Mobile App,West
+T0000465,7/8/2025,C013566,Other,25-34,New,P1104,Building Blocks,Toys,Brand 2,3,256.74,0,770.22,PayPal,Mobile App,West
+T0000327,7/10/2025,C018466,Other,18-24,Returning,P1116,Textbook,Books,Brand 2,1,436.37,0,436.37,Cash,Online,South
+T0000296,7/11/2025,C013898,Other,45-54,Returning,P1087,Running Shoes,Sports,Brand 3,2,366.16,0,732.32,Debit Card,In-Store,East
+T0000002,7/12/2025,C002849,Other,45-54,New,P1087,Running Shoes,Sports,Brand 3,1,366.16,0,366.16,Credit Card,Online,South
+T0000569,7/12/2025,C009666,Other,25-34,Loyal,P1102,Doll,Toys,Brand 3,1,320.02,0,320.02,Cash,Online,Central
+T0000073,7/13/2025,C019768,Male,45-54,Returning,P1069,Cookware Set,Home,Brand 3,3,41.9,10,113.13,Cash,In-Store,West
+T0000571,7/14/2025,C002790,Female,25-34,Loyal,P1069,Cookware Set,Home,Brand 3,1,41.9,10,37.71,Debit Card,In-Store,Central
+T0000067,7/15/2025,C014612,Male,45-54,VIP,P1055,Perfume,Beauty,Brand 1,3,300.96,0,902.88,Cash,Online,East
+T0000669,7/16/2025,C017070,Male,35-44,VIP,P1096,Toy Car,Toys,Brand 3,2,249.43,5,473.92,Cash,Online,East
+T0000254,7/17/2025,C009166,Other,55+,New,P1058,Sunscreen,Beauty,Brand 1,1,102.01,10,91.81,Debit Card,Online,West
+T0000751,7/17/2025,C002128,Female,45-54,Returning,P1108,Novel,Books,Brand 3,1,379,0,379,Credit Card,Mobile App,East
+T0000234,7/18/2025,C004253,Other,18-24,New,P1060,Sunscreen,Beauty,Brand 3,1,166.04,0,166.04,Cash,In-Store,West
+T0000024,7/21/2025,C007541,Other,25-34,New,P1076,Yoga Mat,Sports,Brand 1,1,365.86,0,365.86,Credit Card,Mobile App,North
+T0000337,7/21/2025,C003050,Other,55+,Loyal,P1046,Shampoo,Beauty,Brand 1,1,332.95,5,316.3,PayPal,Online,East
+T0000626,7/21/2025,C005849,Female,35-44,Loyal,P1010,Smartwatch,Electronics,Brand 1,5,355.5,0,1777.5,Debit Card,Mobile App,East
+T0000941,7/21/2025,C022459,Other,55+,VIP,P1085,Running Shoes,Sports,Brand 1,1,158.94,0,158.94,PayPal,Mobile App,South
+T0000570,7/22/2025,C004633,Male,18-24,New,P1112,Notebook,Books,Brand 1,1,84.8,0,84.8,Gift Card,Mobile App,West
+T0000552,7/23/2025,C008659,Male,25-34,Loyal,P1036,Bread,Groceries,Brand 3,1,405.16,25,303.87,Credit Card,In-Store,West
+T0000526,7/25/2025,C020084,Male,18-24,Returning,P1020,Jeans,Clothing,Brand 2,2,149.16,30,208.82,Gift Card,In-Store,West
+T0000686,7/25/2025,C024363,Female,35-44,New,P1047,Shampoo,Beauty,Brand 2,1,159.3,0,159.3,Gift Card,In-Store,Central
+T0000689,7/25/2025,C013605,Other,18-24,Loyal,P1072,Storage Box,Home,Brand 3,2,103.36,0,206.72,PayPal,Mobile App,West
+T0000196,7/26/2025,C012344,Other,35-44,Returning,P1040,Coffee,Groceries,Brand 1,2,222.88,0,445.76,Gift Card,Online,West
+T0000902,7/26/2025,C024244,Female,25-34,New,P1064,Lamp,Home,Brand 1,2,181.59,0,363.18,Credit Card,Online,East
+T0000641,7/27/2025,C018268,Female,35-44,New,P1047,Shampoo,Beauty,Brand 2,1,159.3,0,159.3,PayPal,Online,East
+T0000658,7/28/2025,C014324,Female,25-34,Returning,P1053,Lipstick,Beauty,Brand 2,1,470.05,0,470.05,PayPal,In-Store,South
+T0000897,7/28/2025,C002871,Male,45-54,VIP,P1112,Notebook,Books,Brand 1,5,84.8,0,424,PayPal,In-Store,South
+T0000229,7/29/2025,C003859,Female,35-44,VIP,P1050,Moisturizer,Beauty,Brand 2,1,96.5,20,77.2,Debit Card,Mobile App,East
+T0000246,7/29/2025,C003480,Female,25-34,VIP,P1066,Lamp,Home,Brand 3,1,273.63,10,246.27,Credit Card,In-Store,West
+T0000253,7/29/2025,C006379,Female,55+,Loyal,P1073,Towel,Home,Brand 1,2,7.73,0,15.46,Credit Card,In-Store,Central
+T0000351,7/30/2025,C021137,Other,45-54,Loyal,P1006,Headphones,Electronics,Brand 3,2,82.22,0,164.44,PayPal,Online,North
+T0000152,8/1/2025,C006725,Male,55+,Returning,P1017,T-Shirt,Clothing,Brand 2,1,155.6,0,155.6,Gift Card,Online,South
+T0000436,8/2/2025,C016463,Female,45-54,Loyal,P1045,Cereal,Groceries,Brand 3,2,133.1,5,252.89,Debit Card,Online,East
+T0000585,8/2/2025,C021608,Male,45-54,Loyal,P1073,Towel,Home,Brand 1,1,7.73,0,7.73,Credit Card,Online,West
+T0000012,8/3/2025,C023525,Female,25-34,VIP,P1117,Textbook,Books,Brand 3,1,402.82,0,402.82,PayPal,Mobile App,West
+T0000329,8/3/2025,C012752,Other,55+,Loyal,P1031,Milk,Groceries,Brand 1,1,305.73,10,275.16,PayPal,Mobile App,South
+T0000573,8/3/2025,C001783,Other,45-54,New,P1086,Running Shoes,Sports,Brand 2,1,165.97,0,165.97,Cash,Mobile App,North
+T0000831,8/3/2025,C017541,Female,35-44,Loyal,P1016,T-Shirt,Clothing,Brand 1,1,95.79,20,76.63,PayPal,Online,North
+T0000953,8/3/2025,C017402,Female,45-54,Returning,P1009,Laptop,Electronics,Brand 3,1,302.55,0,302.55,Cash,Online,East
+T0000983,8/3/2025,C003846,Male,55+,VIP,P1022,Jacket,Clothing,Brand 1,1,74.05,0,74.05,PayPal,Mobile App,West
+T0000059,8/5/2025,C009862,Female,55+,New,P1079,Football,Sports,Brand 1,1,182.44,0,182.44,Cash,In-Store,South
+T0000791,8/6/2025,C022268,Female,45-54,Loyal,P1039,Rice,Groceries,Brand 3,4,343.7,0,1374.8,Credit Card,Mobile App,North
+T0000697,8/7/2025,C013101,Other,25-34,New,P1012,Smartwatch,Electronics,Brand 3,4,485.11,0,1940.44,Cash,In-Store,South
+T0000868,8/7/2025,C024488,Other,18-24,VIP,P1110,Cookbook,Books,Brand 2,3,43.11,0,129.33,PayPal,Online,West
+T0000459,8/8/2025,C018012,Female,25-34,New,P1051,Moisturizer,Beauty,Brand 3,1,484.94,10,436.45,Cash,Online,West
+T0000484,8/8/2025,C007023,Male,25-34,Returning,P1021,Jeans,Clothing,Brand 3,2,307.87,0,615.74,Cash,Mobile App,West
+T0000262,8/9/2025,C022955,Male,25-34,New,P1005,Headphones,Electronics,Brand 2,1,82.23,0,82.23,PayPal,In-Store,West
+T0000288,8/9/2025,C017586,Male,25-34,Loyal,P1026,Dress,Clothing,Brand 2,1,393.66,5,373.98,Gift Card,In-Store,North
+T0000529,8/9/2025,C014684,Male,45-54,VIP,P1057,Perfume,Beauty,Brand 3,2,48.8,0,97.6,Cash,Online,West
+T0000554,8/9/2025,C018028,Female,18-24,Loyal,P1063,Bedsheet,Home,Brand 3,1,415.23,0,415.23,Gift Card,Online,South
+T0000890,8/10/2025,C021853,Male,55+,VIP,P1097,Board Game,Toys,Brand 1,1,263.75,10,237.38,Cash,Mobile App,North
+T0000136,8/11/2025,C009696,Other,35-44,New,P1046,Shampoo,Beauty,Brand 1,5,332.95,0,1664.75,PayPal,In-Store,North
+T0000622,8/11/2025,C008197,Other,45-54,VIP,P1105,Building Blocks,Toys,Brand 3,2,454.25,5,863.07,Gift Card,In-Store,South
+T0000886,8/11/2025,C004145,Female,35-44,Loyal,P1041,Coffee,Groceries,Brand 2,1,65.41,0,65.41,Debit Card,Online,Central
+T0000072,8/12/2025,C012465,Female,18-24,Loyal,P1110,Cookbook,Books,Brand 2,1,43.11,0,43.11,Cash,In-Store,West
+T0000110,8/12/2025,C019239,Male,35-44,New,P1087,Running Shoes,Sports,Brand 3,1,366.16,0,366.16,Debit Card,In-Store,Central
+T0000524,8/13/2025,C023717,Other,25-34,Loyal,P1099,Board Game,Toys,Brand 3,2,17.58,0,35.16,Gift Card,Mobile App,Central
+T0000631,8/13/2025,C004203,Male,55+,VIP,P1029,Sneakers,Clothing,Brand 2,1,298.25,0,298.25,PayPal,Mobile App,North
+T0000922,8/15/2025,C000459,Other,25-34,Returning,P1013,Bluetooth Speaker,Electronics,Brand 1,2,417.06,0,834.12,Cash,Online,Central
+T0000060,8/16/2025,C019880,Other,35-44,VIP,P1056,Perfume,Beauty,Brand 2,2,461.33,0,922.66,PayPal,In-Store,South
+T0000855,8/16/2025,C010682,Female,25-34,Loyal,P1076,Yoga Mat,Sports,Brand 1,2,365.86,0,731.72,Debit Card,Online,East
+T0000054,8/17/2025,C008699,Male,18-24,VIP,P1023,Jacket,Clothing,Brand 2,5,149.61,0,748.05,Cash,Mobile App,East
+T0000874,8/17/2025,C023031,Male,25-34,Loyal,P1095,Toy Car,Toys,Brand 2,1,386.63,0,386.63,Cash,In-Store,Central
+T0000932,8/18/2025,C019453,Female,45-54,Loyal,P1036,Bread,Groceries,Brand 3,1,405.16,0,405.16,PayPal,Mobile App,Central
+T0000544,8/19/2025,C018699,Other,45-54,Loyal,P1062,Bedsheet,Home,Brand 2,2,139.32,0,278.64,PayPal,Online,Central
+T0000619,8/19/2025,C011407,Female,35-44,Returning,P1118,Children Book,Books,Brand 1,3,97.35,0,292.05,Gift Card,Online,West
+T0000944,8/20/2025,C000882,Other,35-44,VIP,P1104,Building Blocks,Toys,Brand 2,1,256.74,10,231.07,Credit Card,In-Store,East
+T0000160,8/22/2025,C017969,Other,35-44,VIP,P1082,Dumbbells,Sports,Brand 1,2,313.53,0,627.06,Gift Card,Mobile App,East
+T0000496,8/22/2025,C009636,Female,18-24,VIP,P1034,Bread,Groceries,Brand 1,2,474.7,0,949.4,Credit Card,Mobile App,Central
+T0000857,8/22/2025,C015874,Male,45-54,Returning,P1061,Bedsheet,Home,Brand 1,1,197.4,10,177.66,Debit Card,Mobile App,West
+T0000165,8/23/2025,C018403,Other,35-44,New,P1008,Laptop,Electronics,Brand 2,1,433.76,0,433.76,PayPal,In-Store,West
+T0000589,8/24/2025,C021409,Male,55+,Loyal,P1047,Shampoo,Beauty,Brand 2,1,159.3,0,159.3,PayPal,Online,Central
+T0000004,8/26/2025,C009116,Male,25-34,VIP,P1058,Sunscreen,Beauty,Brand 1,2,102.01,15,173.42,Cash,In-Store,South
+T0000794,8/27/2025,C012920,Other,35-44,VIP,P1090,Water Bottle,Sports,Brand 3,2,238.75,0,477.5,PayPal,In-Store,West
+T0000388,8/30/2025,C007412,Other,45-54,New,P1017,T-Shirt,Clothing,Brand 2,2,155.6,0,311.2,Credit Card,Mobile App,East
+T0000835,8/30/2025,C007815,Female,45-54,New,P1093,Puzzle,Toys,Brand 3,1,381.59,0,381.59,Gift Card,Mobile App,East
+T0000882,8/30/2025,C021819,Other,55+,VIP,P1063,Bedsheet,Home,Brand 3,2,415.23,10,747.41,PayPal,In-Store,Central
+T0000037,8/31/2025,C001303,Other,18-24,VIP,P1075,Towel,Home,Brand 3,3,354.89,5,1011.44,Gift Card,Mobile App,Central
+T0000104,8/31/2025,C015399,Female,18-24,Returning,P1089,Water Bottle,Sports,Brand 2,1,444.17,5,421.96,Cash,Mobile App,East
+T0000036,9/1/2025,C002227,Other,25-34,VIP,P1009,Laptop,Electronics,Brand 3,1,302.55,20,242.04,Credit Card,Mobile App,South
+T0000702,9/1/2025,C018850,Other,18-24,Returning,P1058,Sunscreen,Beauty,Brand 1,1,102.01,0,102.01,PayPal,In-Store,West
+T0000089,9/2/2025,C022977,Female,55+,New,P1113,Notebook,Books,Brand 2,2,465.2,0,930.4,Gift Card,Online,North
+T0000728,9/2/2025,C007609,Male,18-24,Loyal,P1030,Sneakers,Clothing,Brand 3,1,27.99,0,27.99,Credit Card,Mobile App,West
+T0000915,9/3/2025,C017142,Female,25-34,Loyal,P1114,Notebook,Books,Brand 3,1,405.02,0,405.02,Credit Card,Mobile App,North
+T0000678,9/5/2025,C018171,Male,18-24,Returning,P1036,Bread,Groceries,Brand 3,1,405.16,5,384.9,PayPal,In-Store,East
+T0000395,9/6/2025,C023632,Other,35-44,New,P1077,Yoga Mat,Sports,Brand 2,1,386.78,0,386.78,Cash,Online,Central
+T0000691,9/6/2025,C014517,Female,35-44,Loyal,P1069,Cookware Set,Home,Brand 3,1,41.9,0,41.9,Cash,In-Store,West
+T0000746,9/7/2025,C019665,Male,25-34,Loyal,P1011,Smartwatch,Electronics,Brand 2,3,15.19,5,43.29,Gift Card,Mobile App,Central
+T0000592,9/8/2025,C023505,Male,25-34,VIP,P1047,Shampoo,Beauty,Brand 2,1,159.3,0,159.3,Cash,Mobile App,North
+T0000190,9/11/2025,C015586,Other,25-34,New,P1042,Coffee,Groceries,Brand 3,5,250.11,30,875.39,PayPal,Online,East
+T0000241,9/11/2025,C011064,Other,18-24,New,P1093,Puzzle,Toys,Brand 3,1,381.59,0,381.59,Credit Card,Online,Central
+T0000055,9/12/2025,C016759,Male,45-54,Returning,P1056,Perfume,Beauty,Brand 2,3,461.33,5,1314.79,Cash,Online,West
+T0000257,9/12/2025,C016893,Male,35-44,Loyal,P1020,Jeans,Clothing,Brand 2,1,149.16,0,149.16,Debit Card,In-Store,Central
+T0000970,9/12/2025,C001141,Other,18-24,Returning,P1083,Dumbbells,Sports,Brand 2,2,168.79,0,337.58,Cash,Mobile App,West
+T0000803,9/16/2025,C002899,Male,45-54,New,P1067,Cookware Set,Home,Brand 1,2,74.76,0,149.52,Gift Card,Mobile App,East
+T0000522,9/17/2025,C012444,Female,55+,New,P1024,Jacket,Clothing,Brand 3,1,186.35,10,167.72,Debit Card,In-Store,West
+T0000981,9/18/2025,C020534,Male,18-24,VIP,P1083,Dumbbells,Sports,Brand 2,1,168.79,0,168.79,Debit Card,In-Store,South
+T0000456,9/20/2025,C015819,Other,18-24,VIP,P1077,Yoga Mat,Sports,Brand 2,1,386.78,0,386.78,Debit Card,Mobile App,West
+T0000212,9/21/2025,C011562,Male,55+,VIP,P1001,Smartphone,Electronics,Brand 1,1,190.4,5,180.88,Debit Card,Mobile App,North
+T0000950,9/21/2025,C009815,Female,45-54,Returning,P1022,Jacket,Clothing,Brand 1,1,74.05,5,70.35,PayPal,Mobile App,North
+T0000957,9/21/2025,C014213,Other,18-24,Returning,P1104,Building Blocks,Toys,Brand 2,1,256.74,25,192.56,Cash,In-Store,South
+T0000853,9/23/2025,C024852,Female,18-24,New,P1043,Cereal,Groceries,Brand 1,2,22.02,0,44.04,Credit Card,Mobile App,South
+T0000512,9/24/2025,C003858,Female,18-24,New,P1093,Puzzle,Toys,Brand 3,2,381.59,0,763.18,PayPal,Online,Central
+T0000872,9/25/2025,C001340,Female,35-44,Returning,P1060,Sunscreen,Beauty,Brand 3,1,166.04,0,166.04,Gift Card,Mobile App,North
+T0000433,9/26/2025,C020218,Male,35-44,VIP,P1079,Football,Sports,Brand 1,2,182.44,0,364.88,PayPal,Mobile App,West
+T0000102,9/27/2025,C001974,Other,18-24,Returning,P1073,Towel,Home,Brand 1,2,7.73,0,15.46,Debit Card,In-Store,North
+T0000497,9/27/2025,C002334,Female,25-34,New,P1075,Towel,Home,Brand 3,1,354.89,0,354.89,PayPal,Mobile App,East
+T0000710,9/27/2025,C004840,Female,18-24,Loyal,P1032,Milk,Groceries,Brand 2,1,89.41,0,89.41,Credit Card,In-Store,West
+T0000955,10/1/2025,C016888,Female,55+,Returning,P1033,Milk,Groceries,Brand 3,1,37.2,5,35.34,Credit Card,Mobile App,Central
+T0000719,10/2/2025,C009907,Male,55+,Loyal,P1046,Shampoo,Beauty,Brand 1,2,332.95,0,665.9,Credit Card,Mobile App,East
+T0000015,10/4/2025,C005243,Other,45-54,New,P1020,Jeans,Clothing,Brand 2,1,149.16,0,149.16,PayPal,In-Store,Central
+T0000139,10/4/2025,C021180,Male,35-44,VIP,P1116,Textbook,Books,Brand 2,3,436.37,0,1309.11,Credit Card,Mobile App,East
+T0000186,10/4/2025,C010360,Male,45-54,New,P1042,Coffee,Groceries,Brand 3,1,250.11,5,237.6,PayPal,In-Store,East
+T0000469,10/4/2025,C004846,Other,35-44,Loyal,P1026,Dress,Clothing,Brand 2,2,393.66,0,787.32,Credit Card,Online,West
+T0000007,10/5/2025,C020268,Female,55+,Returning,P1038,Rice,Groceries,Brand 2,1,53.35,0,53.35,Credit Card,Online,South
+T0000185,10/5/2025,C016192,Female,55+,VIP,P1023,Jacket,Clothing,Brand 2,4,149.61,20,478.75,Gift Card,Mobile App,Central
+T0000977,10/5/2025,C010013,Female,55+,New,P1026,Dress,Clothing,Brand 2,1,393.66,15,334.61,Credit Card,Online,South
+T0000753,10/6/2025,C017333,Male,45-54,Loyal,P1074,Towel,Home,Brand 2,1,408.65,5,388.22,PayPal,Mobile App,East
+T0000435,10/7/2025,C017815,Male,45-54,Loyal,P1032,Milk,Groceries,Brand 2,1,89.41,15,76,PayPal,Mobile App,West
+T0000565,10/7/2025,C013253,Female,35-44,New,P1058,Sunscreen,Beauty,Brand 1,4,102.01,5,387.64,PayPal,Mobile App,North
+T0000735,10/7/2025,C001616,Male,35-44,VIP,P1067,Cookware Set,Home,Brand 1,1,74.76,10,67.28,PayPal,In-Store,East
+T0000644,10/8/2025,C004747,Male,35-44,VIP,P1060,Sunscreen,Beauty,Brand 3,2,166.04,15,282.27,Gift Card,Mobile App,West
+T0000755,10/9/2025,C016310,Female,25-34,Returning,P1067,Cookware Set,Home,Brand 1,1,74.76,0,74.76,Cash,Online,North
+T0000845,10/9/2025,C020069,Female,25-34,New,P1013,Bluetooth Speaker,Electronics,Brand 1,1,417.06,0,417.06,PayPal,Online,North
+T0000550,10/10/2025,C023090,Other,35-44,Returning,P1117,Textbook,Books,Brand 3,2,402.82,0,805.64,Debit Card,In-Store,West
+T0000500,10/11/2025,C001901,Male,45-54,Loyal,P1041,Coffee,Groceries,Brand 2,1,65.41,0,65.41,Debit Card,Online,Central
+T0000133,10/15/2025,C008323,Female,35-44,New,P1060,Sunscreen,Beauty,Brand 3,2,166.04,15,282.27,PayPal,In-Store,Central
+T0000272,10/15/2025,C007630,Male,18-24,VIP,P1029,Sneakers,Clothing,Brand 2,2,298.25,0,596.5,Cash,Mobile App,West
+T0000350,10/15/2025,C002785,Male,25-34,Loyal,P1077,Yoga Mat,Sports,Brand 2,1,386.78,0,386.78,Debit Card,Mobile App,Central
+T0000861,10/15/2025,C020039,Male,55+,Returning,P1021,Jeans,Clothing,Brand 3,1,307.87,0,307.87,Credit Card,In-Store,Central
+T0000362,10/16/2025,C010270,Other,45-54,VIP,P1068,Cookware Set,Home,Brand 2,1,402.09,25,301.57,Gift Card,Online,East
+T0000446,10/16/2025,C015965,Other,35-44,Returning,P1102,Doll,Toys,Brand 3,1,320.02,30,224.01,Gift Card,Mobile App,Central
+T0000654,10/16/2025,C017492,Female,35-44,VIP,P1082,Dumbbells,Sports,Brand 1,1,313.53,25,235.15,Gift Card,Online,North
+T0000971,10/16/2025,C022958,Female,18-24,Returning,P1040,Coffee,Groceries,Brand 1,1,222.88,0,222.88,PayPal,In-Store,North
+T0000401,10/17/2025,C017583,Other,55+,Returning,P1011,Smartwatch,Electronics,Brand 2,3,15.19,0,45.57,Cash,Online,East
+T0000508,10/17/2025,C008382,Other,55+,New,P1049,Moisturizer,Beauty,Brand 1,2,275.62,0,551.24,Gift Card,Online,North
+T0000903,10/17/2025,C020859,Female,18-24,Loyal,P1039,Rice,Groceries,Brand 3,2,343.7,0,687.4,PayPal,Online,West
+T0000053,10/18/2025,C016693,Female,55+,Loyal,P1045,Cereal,Groceries,Brand 3,1,133.1,0,133.1,Credit Card,Online,East
+T0000243,10/19/2025,C009900,Female,25-34,VIP,P1038,Rice,Groceries,Brand 2,1,53.35,0,53.35,Cash,In-Store,North
+T0000558,10/19/2025,C020110,Other,25-34,New,P1116,Textbook,Books,Brand 2,2,436.37,0,872.74,Cash,In-Store,North
+T0000813,10/19/2025,C008664,Male,18-24,Returning,P1007,Laptop,Electronics,Brand 1,1,33.75,0,33.75,PayPal,In-Store,West
+T0000039,10/22/2025,C009831,Female,35-44,New,P1086,Running Shoes,Sports,Brand 2,2,165.97,20,265.55,Credit Card,In-Store,Central
+T0000226,10/22/2025,C012004,Female,45-54,New,P1031,Milk,Groceries,Brand 1,1,305.73,10,275.16,Gift Card,Online,West
+T0000366,10/22/2025,C005677,Other,25-34,VIP,P1089,Water Bottle,Sports,Brand 2,1,444.17,10,399.75,Cash,Online,South
+T0000675,10/22/2025,C024796,Female,45-54,Returning,P1072,Storage Box,Home,Brand 3,3,103.36,10,279.07,Credit Card,Mobile App,West
+T0000826,10/22/2025,C016124,Male,25-34,VIP,P1023,Jacket,Clothing,Brand 2,1,149.61,10,134.65,Debit Card,Mobile App,North
+T0000430,10/23/2025,C014531,Male,18-24,Loyal,P1026,Dress,Clothing,Brand 2,1,393.66,0,393.66,Credit Card,Online,West
+T0000737,10/23/2025,C014802,Male,55+,New,P1107,Novel,Books,Brand 2,1,208.14,0,208.14,Debit Card,Mobile App,Central
+T0000867,10/25/2025,C002974,Male,45-54,Loyal,P1031,Milk,Groceries,Brand 1,3,305.73,15,779.61,Debit Card,Mobile App,West
+T0000978,10/26/2025,C004263,Other,45-54,Loyal,P1067,Cookware Set,Home,Brand 1,3,74.76,15,190.64,PayPal,In-Store,South
+T0000228,10/27/2025,C009133,Male,18-24,New,P1041,Coffee,Groceries,Brand 2,3,65.41,25,147.17,Debit Card,In-Store,Central
+T0000385,10/27/2025,C009892,Male,35-44,New,P1113,Notebook,Books,Brand 2,1,465.2,0,465.2,Cash,In-Store,North
+T0000543,10/27/2025,C005827,Other,55+,Loyal,P1091,Puzzle,Toys,Brand 1,1,64.2,10,57.78,Credit Card,In-Store,Central
+T0000242,10/28/2025,C006908,Other,45-54,New,P1034,Bread,Groceries,Brand 1,1,474.7,0,474.7,PayPal,Mobile App,Central
+T0000274,10/28/2025,C006536,Female,35-44,Loyal,P1062,Bedsheet,Home,Brand 2,1,139.32,0,139.32,Credit Card,Online,Central
+T0000343,10/28/2025,C019478,Male,35-44,Loyal,P1056,Perfume,Beauty,Brand 2,1,461.33,10,415.2,Gift Card,Mobile App,South
+T0000700,10/30/2025,C019737,Male,45-54,New,P1096,Toy Car,Toys,Brand 3,1,249.43,20,199.54,Cash,Mobile App,North
+T0000042,10/31/2025,C017333,Male,55+,Loyal,P1079,Football,Sports,Brand 1,1,182.44,20,145.95,Credit Card,Online,East
+T0000251,10/31/2025,C022038,Female,35-44,New,P1113,Notebook,Books,Brand 2,1,465.2,0,465.2,Credit Card,In-Store,South
+T0000530,10/31/2025,C000583,Male,45-54,VIP,P1096,Toy Car,Toys,Brand 3,2,249.43,0,498.86,Credit Card,Mobile App,Central
+T0000126,11/1/2025,C005059,Male,45-54,Loyal,P1053,Lipstick,Beauty,Brand 2,1,470.05,0,470.05,Cash,Mobile App,West
+T0000387,11/2/2025,C002989,Other,18-24,New,P1055,Perfume,Beauty,Brand 1,2,300.96,0,601.92,Debit Card,In-Store,North
+T0000575,11/2/2025,C007686,Male,35-44,New,P1086,Running Shoes,Sports,Brand 2,2,165.97,0,331.94,Debit Card,In-Store,West
+T0000215,11/3/2025,C020587,Male,55+,Loyal,P1094,Toy Car,Toys,Brand 1,1,282.83,10,254.55,Debit Card,Online,East
+T0000615,11/3/2025,C016979,Female,25-34,New,P1109,Cookbook,Books,Brand 1,5,118.26,0,591.3,Gift Card,Mobile App,Central
+T0000964,11/4/2025,C002960,Female,25-34,Returning,P1086,Running Shoes,Sports,Brand 2,1,165.97,10,149.37,Credit Card,Mobile App,Central
+T0000610,11/6/2025,C003903,Other,25-34,VIP,P1110,Cookbook,Books,Brand 2,1,43.11,0,43.11,Debit Card,Online,South
+T0000742,11/6/2025,C004919,Male,25-34,Returning,P1073,Towel,Home,Brand 1,1,7.73,0,7.73,Credit Card,In-Store,East
+T0000568,11/7/2025,C001010,Female,25-34,Returning,P1051,Moisturizer,Beauty,Brand 3,2,484.94,0,969.88,Debit Card,Mobile App,West
+T0000812,11/7/2025,C014424,Other,25-34,Returning,P1031,Milk,Groceries,Brand 1,2,305.73,0,611.46,Gift Card,Mobile App,East
+T0000596,11/8/2025,C009289,Male,25-34,VIP,P1113,Notebook,Books,Brand 2,1,465.2,20,372.16,Gift Card,In-Store,West
+T0000113,11/9/2025,C013123,Other,18-24,VIP,P1037,Rice,Groceries,Brand 1,1,155.78,5,147.99,Credit Card,In-Store,East
+T0000488,11/9/2025,C012263,Other,55+,Loyal,P1066,Lamp,Home,Brand 3,1,273.63,0,273.63,Cash,Mobile App,North
+T0000584,11/9/2025,C007828,Other,25-34,Returning,P1002,Smartphone,Electronics,Brand 2,1,475.6,0,475.6,PayPal,Online,South
+T0000124,11/10/2025,C021366,Male,45-54,New,P1050,Moisturizer,Beauty,Brand 2,4,96.5,20,308.8,Debit Card,Mobile App,Central
+T0000629,11/10/2025,C016144,Other,18-24,New,P1087,Running Shoes,Sports,Brand 3,1,366.16,0,366.16,PayPal,In-Store,Central
+T0000652,11/10/2025,C011693,Female,45-54,VIP,P1005,Headphones,Electronics,Brand 2,1,82.23,0,82.23,Gift Card,In-Store,Central
+T0000713,11/10/2025,C017263,Male,35-44,Returning,P1116,Textbook,Books,Brand 2,4,436.37,0,1745.48,Credit Card,In-Store,South
+T0000381,11/11/2025,C022849,Female,18-24,VIP,P1082,Dumbbells,Sports,Brand 1,1,313.53,5,297.85,Debit Card,In-Store,South
+T0000386,11/11/2025,C021264,Male,18-24,VIP,P1048,Shampoo,Beauty,Brand 3,2,262.43,15,446.13,Cash,Mobile App,South
+T0000668,11/12/2025,C006831,Female,45-54,Loyal,P1067,Cookware Set,Home,Brand 1,1,74.76,20,59.81,Cash,Online,North
+T0000319,11/13/2025,C020203,Female,45-54,New,P1082,Dumbbells,Sports,Brand 1,2,313.53,0,627.06,Credit Card,Mobile App,Central
+T0000308,11/18/2025,C018313,Male,45-54,Returning,P1093,Puzzle,Toys,Brand 3,1,381.59,15,324.35,Cash,In-Store,North
+T0000731,11/18/2025,C006647,Male,18-24,Returning,P1029,Sneakers,Clothing,Brand 2,1,298.25,0,298.25,PayPal,Mobile App,West
+T0000894,11/18/2025,C002864,Other,45-54,Returning,P1087,Running Shoes,Sports,Brand 3,4,366.16,0,1464.64,PayPal,In-Store,Central
+T0000818,11/19/2025,C019292,Male,55+,Loyal,P1094,Toy Car,Toys,Brand 1,5,282.83,15,1202.03,Debit Card,In-Store,Central
+T0000819,11/19/2025,C000278,Male,18-24,VIP,P1002,Smartphone,Electronics,Brand 2,4,475.6,0,1902.4,Credit Card,Mobile App,North
+T0000877,11/20/2025,C022716,Male,25-34,VIP,P1103,Building Blocks,Toys,Brand 1,1,160.61,15,136.52,Credit Card,Online,West
+T0000173,11/21/2025,C002674,Female,45-54,VIP,P1007,Laptop,Electronics,Brand 1,4,33.75,0,135,PayPal,Mobile App,West
+T0000145,11/22/2025,C007662,Female,18-24,Loyal,P1014,Bluetooth Speaker,Electronics,Brand 2,3,110.11,0,330.33,Gift Card,Online,North
+T0000593,11/22/2025,C015690,Female,25-34,Returning,P1062,Bedsheet,Home,Brand 2,2,139.32,15,236.84,PayPal,Online,South
+T0000143,11/23/2025,C023732,Other,45-54,Loyal,P1111,Cookbook,Books,Brand 3,1,148.43,20,118.74,Credit Card,In-Store,North
+T0000391,11/24/2025,C004682,Male,55+,New,P1083,Dumbbells,Sports,Brand 2,1,168.79,0,168.79,Gift Card,Mobile App,South
+T0000175,11/25/2025,C019436,Female,55+,Loyal,P1087,Running Shoes,Sports,Brand 3,1,366.16,25,274.62,Credit Card,Online,West
+T0000194,11/25/2025,C012667,Female,35-44,Returning,P1072,Storage Box,Home,Brand 3,3,103.36,15,263.57,Cash,Online,Central
+T0000762,11/25/2025,C010339,Other,55+,New,P1073,Towel,Home,Brand 1,1,7.73,5,7.34,Debit Card,Mobile App,East
+T0000842,11/25/2025,C013174,Female,18-24,Returning,P1104,Building Blocks,Toys,Brand 2,1,256.74,0,256.74,Cash,Online,North
+T0000225,11/26/2025,C005243,Male,25-34,VIP,P1103,Building Blocks,Toys,Brand 1,3,160.61,0,481.83,Credit Card,Online,North
+T0000353,11/26/2025,C019287,Other,55+,Returning,P1060,Sunscreen,Beauty,Brand 3,1,166.04,20,132.83,Cash,Online,West
+T0000642,11/26/2025,C019844,Male,55+,Returning,P1112,Notebook,Books,Brand 1,1,84.8,10,76.32,Cash,In-Store,East
+T0000273,11/28/2025,C004505,Male,55+,Returning,P1013,Bluetooth Speaker,Electronics,Brand 1,1,417.06,0,417.06,PayPal,Mobile App,West
+T0000231,11/29/2025,C010473,Other,35-44,New,P1012,Smartwatch,Electronics,Brand 3,1,485.11,30,339.58,Gift Card,Mobile App,East
+T0000383,11/29/2025,C024978,Male,18-24,New,P1115,Textbook,Books,Brand 1,2,318.53,0,637.06,PayPal,Online,North
+T0000546,11/30/2025,C008211,Male,18-24,Loyal,P1037,Rice,Groceries,Brand 1,1,155.78,0,155.78,Debit Card,Mobile App,North
+T0000551,11/30/2025,C002441,Male,25-34,New,P1023,Jacket,Clothing,Brand 2,4,149.61,0,598.44,PayPal,Online,West
+T0000627,11/30/2025,C006232,Female,25-34,Returning,P1024,Jacket,Clothing,Brand 3,3,186.35,0,559.05,Debit Card,In-Store,South
+T0000681,11/30/2025,C016304,Other,25-34,Loyal,P1068,Cookware Set,Home,Brand 2,2,402.09,0,804.18,Cash,In-Store,East
+T0000816,11/30/2025,C001345,Male,55+,Loyal,P1068,Cookware Set,Home,Brand 2,1,402.09,0,402.09,PayPal,Mobile App,East
+T0000562,12/2/2025,C013901,Male,25-34,VIP,P1111,Cookbook,Books,Brand 3,2,148.43,15,252.33,Credit Card,Mobile App,South
+T0000910,12/2/2025,C009866,Female,35-44,New,P1106,Novel,Books,Brand 1,1,128.4,0,128.4,Gift Card,Mobile App,East
+T0000137,12/3/2025,C024402,Male,55+,VIP,P1073,Towel,Home,Brand 1,1,7.73,10,6.96,Cash,Online,Central
+T0000466,12/4/2025,C015560,Other,25-34,VIP,P1069,Cookware Set,Home,Brand 3,3,41.9,0,125.7,Cash,Online,West
+T0000904,12/5/2025,C021129,Male,18-24,New,P1117,Textbook,Books,Brand 3,1,402.82,0,402.82,Cash,In-Store,North
+T0000330,12/6/2025,C023730,Male,55+,Loyal,P1102,Doll,Toys,Brand 3,2,320.02,5,608.04,Credit Card,Online,West
+T0000094,12/7/2025,C006067,Male,25-34,VIP,P1098,Board Game,Toys,Brand 2,1,216.63,0,216.63,Cash,Mobile App,Central
+T0000695,12/7/2025,C009043,Other,55+,Returning,P1099,Board Game,Toys,Brand 3,2,17.58,10,31.64,Credit Card,Online,West
+T0000698,12/7/2025,C023031,Other,18-24,Loyal,P1063,Bedsheet,Home,Brand 3,1,415.23,0,415.23,Credit Card,Mobile App,Central
+T0000672,12/8/2025,C015574,Other,55+,Returning,P1101,Doll,Toys,Brand 2,1,20.56,5,19.53,Cash,Online,South
+T0000326,12/9/2025,C018573,Female,35-44,New,P1028,Sneakers,Clothing,Brand 1,1,259.55,15,220.62,Credit Card,Mobile App,East
+T0000848,12/9/2025,C001233,Other,25-34,VIP,P1079,Football,Sports,Brand 1,1,182.44,25,136.83,Gift Card,Online,East
+T0000347,12/10/2025,C002267,Female,45-54,Returning,P1107,Novel,Books,Brand 2,1,208.14,20,166.51,Cash,Online,East
+T0000540,12/10/2025,C024982,Male,35-44,VIP,P1078,Yoga Mat,Sports,Brand 3,2,41.65,0,83.3,Cash,In-Store,West
+T0000070,12/11/2025,C005008,Other,25-34,New,P1050,Moisturizer,Beauty,Brand 2,1,96.5,0,96.5,PayPal,In-Store,East
+T0000548,12/13/2025,C009426,Other,18-24,VIP,P1066,Lamp,Home,Brand 3,2,273.63,0,547.26,PayPal,In-Store,East
+T0000064,12/14/2025,C012583,Female,45-54,Returning,P1025,Dress,Clothing,Brand 1,1,230.75,25,173.06,Debit Card,Mobile App,North
+T0000148,12/14/2025,C017702,Female,55+,Returning,P1086,Running Shoes,Sports,Brand 2,2,165.97,0,331.94,PayPal,Mobile App,North
+T0000714,12/14/2025,C020250,Female,18-24,VIP,P1102,Doll,Toys,Brand 3,2,320.02,0,640.04,Credit Card,Online,West
+T0000440,12/15/2025,C011757,Other,18-24,Loyal,P1041,Coffee,Groceries,Brand 2,4,65.41,0,261.64,Gift Card,Mobile App,South
+T0000403,12/16/2025,C014336,Other,25-34,New,P1040,Coffee,Groceries,Brand 1,1,222.88,0,222.88,Debit Card,Online,West
+T0000779,12/16/2025,C015345,Male,45-54,Loyal,P1012,Smartwatch,Electronics,Brand 3,1,485.11,0,485.11,PayPal,In-Store,South
+T0000376,12/21/2025,C009590,Female,55+,Loyal,P1042,Coffee,Groceries,Brand 3,1,250.11,0,250.11,Gift Card,Mobile App,North
+T0000793,12/21/2025,C018352,Female,18-24,Loyal,P1001,Smartphone,Electronics,Brand 1,1,190.4,0,190.4,Credit Card,Online,West
+T0000267,12/22/2025,C016024,Female,45-54,Loyal,P1089,Water Bottle,Sports,Brand 2,1,444.17,10,399.75,Gift Card,Mobile App,East
+T0000360,12/22/2025,C007039,Male,35-44,New,P1001,Smartphone,Electronics,Brand 1,1,190.4,5,180.88,Gift Card,Online,Central
+T0000444,12/22/2025,C004642,Male,55+,Loyal,P1076,Yoga Mat,Sports,Brand 1,2,365.86,15,621.96,Credit Card,In-Store,West
+T0000318,12/25/2025,C004949,Male,25-34,VIP,P1009,Laptop,Electronics,Brand 3,1,302.55,10,272.3,Cash,Online,Central
+T0000885,12/26/2025,C022704,Other,25-34,Returning,P1023,Jacket,Clothing,Brand 2,2,149.61,30,209.45,Debit Card,Online,North
+T0000873,12/27/2025,C006709,Male,35-44,Returning,P1072,Storage Box,Home,Brand 3,5,103.36,20,413.44,Gift Card,Online,West
+T0000374,12/28/2025,C019998,Other,45-54,Returning,P1111,Cookbook,Books,Brand 3,1,148.43,0,148.43,Gift Card,Online,South
+T0000993,12/28/2025,C017381,Female,25-34,Loyal,P1041,Coffee,Groceries,Brand 2,2,65.41,0,130.82,Credit Card,In-Store,North
+T0000419,12/29/2025,C009170,Male,18-24,Returning,P1019,Jeans,Clothing,Brand 1,1,218.81,0,218.81,Gift Card,In-Store,East
+T0000614,12/29/2025,C019578,Male,25-34,VIP,P1037,Rice,Groceries,Brand 1,1,155.78,0,155.78,PayPal,Online,South
+T0000739,12/30/2025,C006617,Female,18-24,Loyal,P1115,Textbook,Books,Brand 1,1,318.53,0,318.53,Cash,Mobile App,South
